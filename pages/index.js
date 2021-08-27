@@ -2,6 +2,7 @@ import Head from 'next/head'
 import Page from '../components/page'
 import CourseStaff from '../components/coursestaff'
 import CourseOverview from '../components/courseoverview'
+import CourseDescription from '../components/coursedescription'
 
 export default function Home() {
   return (
@@ -20,6 +21,7 @@ export default function Home() {
           <br></br>
 
           <h3>Course Description</h3>
+          <CourseDescription/>
           <br></br>
 
           <h3>Teaching Staff</h3>

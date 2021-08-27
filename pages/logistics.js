@@ -13,7 +13,8 @@ export default function Home() {
           <p>Logistics Coming Soon!</p>
           <br></br>
           <h2>FAQ</h2>
-          <p>Logistics Coming Soon!</p>
+            <h5>Q: What are the course prerequisites?</h5>
+            <p>The course prerequisites include a working knowledge of linear algebra and probability theory, and mastery of the material in Introduction to Machine Learning (CSC2515).</p>
           <br></br>
         </Page>
     </div>
