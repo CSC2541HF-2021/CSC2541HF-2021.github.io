@@ -1,0 +1,31 @@
+/* @import 'tailwindcss/base'; */
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+@layer base {
+    a {
+      @apply text-link-blue-500 dark:text-link-blue-200 hover:text-link-blue-200 dark:hover:text-link-blue-100;
+    }
+
+    body {
+        @apply dark:bg-dove-gray-800 dark:text-dove-gray-100;
+    }
+
+    #navbarbrand {
+      @apply dark:text-dove-gray-100
+    }
+
+    #navbartoggle {
+      @apply dark:bg-dove-gray-100
+    }
+
+    #footer {
+      @apply bg-white dark:bg-dove-gray-800
+    }
+  }
+
+  .tooltip .tooltip-inner {
+    max-width: none;
+    white-space: normal;
+  }
