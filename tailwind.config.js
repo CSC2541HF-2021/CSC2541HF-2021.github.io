@@ -1,3 +1,5 @@
+const colors = require('tailwindcss/colors')
+
 module.exports = {
   purge: ['./pages/**/*.js', './components/**/*.js'],
   darkMode: 'class',
@@ -32,6 +34,8 @@ module.exports = {
       '800': '#00020A',
       '900': '#000000'
     },
+    green: colors.green,
+    black: colors.black
   },
   },
   variants: {

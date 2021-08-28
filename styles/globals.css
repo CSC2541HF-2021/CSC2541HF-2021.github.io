@@ -8,9 +8,17 @@
       @apply text-link-blue-500 dark:text-link-blue-200 hover:text-link-blue-200 dark:hover:text-link-blue-100;
     }
 
+    /* #darkLink {
+      @apply text-link-blue-500 dark:text-link-blue-500 hover:text-link-blue-200 dark:hover:text-link-blue-200;
+    } */
+
     body {
         @apply dark:bg-dove-gray-800 dark:text-dove-gray-100;
     }
+
+    /* #demomsg {
+      @apply dark:text-dove-gray-900;
+    } */
 
     #navbarbrand {
       @apply dark:text-dove-gray-100
@@ -28,4 +36,20 @@
   .tooltip .tooltip-inner {
     max-width: none;
     white-space: normal;
+  }
+
+  #teaser {
+    @apply bg-white dark:bg-dove-gray-800
+  }
+
+  .pp {
+    @apply dark:text-dove-gray-100 dark:bg-green-800;
+  }
+
+  #card {
+    @apply bg-white dark:bg-dove-gray-800
+  }
+
+  .actmap {
+    @apply dark:border-black
   }

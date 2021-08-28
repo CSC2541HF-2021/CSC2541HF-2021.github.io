@@ -18,7 +18,7 @@ export function bottomTooltip(component, text) {
         key={"bottom"}
         placement={"bottom"}
         overlay={
-            <Tooltip id={`tooltip-${"bottom"}`}>
+            <Tooltip id={`tooltip-${"bottom"}`} style={{ whiteSpace: 'pre-line' }}>
             {text}
             </Tooltip>
         }

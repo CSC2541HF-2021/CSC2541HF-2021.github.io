@@ -1,10 +1,11 @@
-import {Row, Col} from 'react-bootstrap'
-import { instructorProfile } from '../helpers';
+import { Card } from 'react-bootstrap';
 
 
 export default function CourseOverview() {
     return (
         <>
+        <Card style={{ width: '100%', border: "2px solid"}}>
+        <Card.Body id="card">
         <div>
             <b>Instructor: </b>
             <a href="http://www.cs.toronto.edu/~rahulgk/" target="_blank">Dr. Rahul Krishnan</a>
@@ -16,6 +17,9 @@ export default function CourseOverview() {
         <div>
             <b>Location: </b> TBA
         </div>
+        </Card.Body>
+        </Card>
+        
         </>
     );
 

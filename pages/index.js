@@ -3,6 +3,7 @@ import Page from '../components/page'
 import CourseStaff from '../components/coursestaff'
 import CourseOverview from '../components/courseoverview'
 import CourseDescription from '../components/coursedescription'
+import ConvNetDemo from '../components/classifier_demo/demo'
 
 export default function Home() {
   return (
@@ -14,6 +15,8 @@ export default function Home() {
         <Page>
           <br></br>
           <h2>Welcome to CSC2541! &#128075;&#65039;</h2>
+
+          <ConvNetDemo/>
           <br></br>
 
           <h3>The Essentials</h3>
