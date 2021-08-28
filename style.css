@@ -18,7 +18,7 @@
   
   .actmap {
     display: block;
-    /* border: 2px solid #FFF; */
+    border: 2px solid #FFF;
   }
   
   #convnetvis {
