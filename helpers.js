@@ -95,7 +95,6 @@ export function instructorProfile(name, image_path, homepage, em_domain, em_name
         }
         #name {
             text-align: center;
-            white-space: nowrap;
         }
       `}</style>
         </>
