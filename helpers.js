@@ -29,6 +29,33 @@ export function bottomTooltip(component, text) {
     )
 }
 
+
+export function instructorProfileImgName(name, image_path) {
+    return (
+        <>
+        <Row>
+            <img src={image_path} id="profile" alt={name}/>
+        </Row>
+        <Row style={{paddingTop: '3px'}}>
+            <div id="name">{name}</div>
+        </Row>
+        <style jsx>{`
+        #profile {
+            width: 125px;
+            height: 100px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        #name {
+            text-align: center;
+        }
+      `}</style>
+        </>
+        
+    )
+}
+
 export function instructorProfile(name, image_path, homepage, em_domain, em_name) {
     return (
         <>
@@ -68,6 +95,7 @@ export function instructorProfile(name, image_path, homepage, em_domain, em_name
         }
         #name {
             text-align: center;
+            white-space: nowrap;
         }
       `}</style>
         </>
