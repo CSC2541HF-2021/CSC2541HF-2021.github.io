@@ -11,7 +11,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
         <Page>
-            <MDPage slug="paperpresentation"></MDPage>
+            <MDPage slug="projectpresentation"></MDPage>
             <Table bordered id="tabular">
             <thead>
               <tr>
@@ -33,7 +33,7 @@ export default function Home() {
                 <td>20%</td>
               </tr>
               <tr>
-                <td>Creates a compelling visual representation of the main idea. (This must be a novel visual that you have created for the purpose of your paper and presentation and not something you pulled from a related paper -- powerpoint diagrams work great).</td>
+                <td>Creates a compelling visual representation of the main idea. (This must be a novel visual that you have created for the purpose of your paper and presentation and not something you pulled from a related paper - powerpoint diagrams work great).</td>
                 <td>10%</td>
               </tr>
               <tr>
