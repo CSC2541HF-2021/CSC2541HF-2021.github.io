@@ -4,6 +4,7 @@ import CourseStaff from '../components/coursestaff'
 import CourseOverview from '../components/courseoverview'
 import CourseDescription from '../components/coursedescription'
 import ConvNetDemo from '../components/classifier_demo/demo'
+import { Alert } from 'react-bootstrap'
 
 export default function Home() {
   return (
@@ -18,6 +19,11 @@ export default function Home() {
 
           <ConvNetDemo/>
           <br></br>
+
+          {/* Alert for completing the prerequisite quiz. */}
+          <Alert variant="info">
+            Please complete <Alert.Link href="https://forms.gle/hh5DSS1xAuLFwbEU8" target="_blank">the prerequisite quiz</Alert.Link> before Sunday, September 12, 2021, at 11:59PM ET.
+          </Alert>
 
           <h3>The Essentials</h3>
           <CourseOverview/>
