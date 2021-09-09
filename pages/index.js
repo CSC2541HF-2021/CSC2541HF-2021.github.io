@@ -15,7 +15,7 @@ export default function Home() {
       </Head>
         <Page>
           <br></br>
-          <h2>Welcome to CSC2541! &#128075;&#65039;</h2>
+          <h2>Welcome to CSC2541: Machine Learning for Healthcare! &#128075;&#65039;</h2>
 
           <ConvNetDemo/>
           <br></br>

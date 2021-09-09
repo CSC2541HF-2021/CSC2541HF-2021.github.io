@@ -15,7 +15,7 @@ export default function CourseOverview() {
             <b>Time: </b> M/W/F 12:00PM - 1:00PM.
         </div>
         <div>
-            <b>Location: </b> TBA
+            <b>Location: </b> Online before 9/17/2021; UC 85 afterwards.
         </div>
         </Card.Body>
         </Card>
