@@ -22,6 +22,8 @@ export default function Home() {
             <li><b>15%</b>: Project Presentation (completed in project groups)</li>
             <li><b>40%</b>: Project Final Report (completed in project groups)</li>
           </ul>
+          <h5>Computing Recourses</h5>
+          <p> We assume that all students either have access to a computing resource or <a href="https://research.google.com/colaboratory/">VGoogle Colab</a> is sufficient for their purpose. Under other conditions, please contact us <b> as early as possible</b>, and we will try to provide it for you. </p>
           <br></br>
           <h2>FAQ</h2>
           <p>FAQ coming soon!</p>
