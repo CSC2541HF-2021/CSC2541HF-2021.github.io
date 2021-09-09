@@ -15,7 +15,7 @@ export default function Home() {
           <h5>Grading</h5>
           <p>Your grade in this course will be composed of the following evaluations:</p>
           <ul>
-            <li><b>5%</b>: Class participation (attendance and engagement)</li>
+            <li><b>5%</b>: Participation (attendance and engagement)</li>
             <li><b>15%</b>: Paper Summary Assignment (completed individually)</li>
             <li><b>15%</b>: Paper Presentations (completed in pairs)</li>
             <li><b>10%</b>: Project Proposal (completed in project groups)</li>
