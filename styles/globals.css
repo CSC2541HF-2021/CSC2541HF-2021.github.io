@@ -16,6 +16,10 @@
       @apply dark:text-dove-gray-100
     }
 
+    #tabular {
+      @apply dark:text-dove-gray-100
+    }
+
     #navbartoggle {
       @apply dark:bg-dove-gray-100
     }
@@ -44,4 +48,8 @@
 
   .actmap {
     @apply dark:border-black
+  }
+
+  .table {
+    @apply border-black dark:border-dove-gray-100
   }

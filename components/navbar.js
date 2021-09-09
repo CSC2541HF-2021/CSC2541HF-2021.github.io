@@ -12,7 +12,7 @@ export default function NavigationBar() {
       <Navbar collapseOnSelect expand='sm'>
         <Container>
             <Link href="/">
-              <NavbarBrand id="navbarbrand">CSC2541 (Fall 2021)</NavbarBrand>
+              <NavbarBrand id="navbarbrand">CSC2541</NavbarBrand>
             </Link>
             <Navbar.Toggle id="navbartoggle" aria-controls='responsive-navbar-nav' />
             <Navbar.Collapse id='responsive-navbar-nav'>
@@ -28,8 +28,13 @@ export default function NavigationBar() {
                 </Link>
               </NavItem>
               <NavItem>
+                <Link href="/assignments">
+                  <NavLink href="/assignments" style={{color: "#808080"}}>Assignments</NavLink>
+                </Link>
+              </NavItem>
+              <NavItem>
                 <Link href="/logistics">
-                  <NavLink href="/logistics" style={{color: "#808080"}}>Logistics/FAQ</NavLink>
+                  <NavLink href="/logistics" style={{color: "#808080"}}>Logistics</NavLink>
                 </Link>
               </NavItem>
               <NavItem>
