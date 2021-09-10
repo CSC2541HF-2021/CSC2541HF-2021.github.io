@@ -11,6 +11,24 @@ export function obfuscate( domain, em_name ) {
     return em_name + '@' + domain;
 }
 
+export function leftTooltip(component, text) {
+    return (
+    <>
+        <OverlayTrigger
+        key={"left"}
+        placement={"left"}
+        overlay={
+            <Tooltip id={`tooltip-${"left"}`}>
+            {text}
+            </Tooltip>
+        }
+        >
+        {component}
+        </OverlayTrigger>
+    </>
+    )
+}
+
 export function bottomTooltip(component, text) {
     return (
     <>

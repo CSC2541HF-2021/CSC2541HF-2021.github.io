@@ -35,7 +35,8 @@ module.exports = {
       '900': '#000000'
     },
     green: colors.green,
-    black: colors.black
+    black: colors.black,
+    yellow: colors.yellow
   },
   },
   variants: {
