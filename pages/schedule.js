@@ -1,12 +1,10 @@
 import Head from 'next/head'
 import Page from '../components/page'
 import { Table } from 'react-bootstrap'
-import { faPencilAlt, faFilePdf, faCode, faExternalLinkAlt } from '@fortawesome/free-solid-svg-icons'
+import { faFilePdf } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faGithub } from "@fortawesome/free-brands-svg-icons"
-import { OverlayTrigger, Tooltip } from 'react-bootstrap'
 import { leftTooltip } from '../helpers'
-import { Row, Col } from 'react-bootstrap'
+import { Col } from 'react-bootstrap'
 
 function makeLink(
   type,
@@ -15,7 +13,7 @@ function makeLink(
 ) {
   if (type === "mandatory") {
     return (
-    <Col className='d-flex justify-content-center pl-2 pr-2' key={dest}>
+    <Col className='d-flex justify-content-center pl-3 pr-3' key={dest}>
     {leftTooltip(<a href={dest} target="_blank" key={dest} id="mandatory">
     <FontAwesomeIcon 
         icon={faFilePdf} 
@@ -27,7 +25,7 @@ function makeLink(
   }
   if (type === "optional") {
     return (
-    <Col className='d-flex justify-content-center pl-2 pr-2' key={dest}>
+    <Col className='d-flex justify-content-center pl-3 pr-3' key={dest}>
     {leftTooltip(<a href={dest} target="_blank" key={dest} id="optional">
     <FontAwesomeIcon 
         icon={faFilePdf} 
@@ -48,7 +46,7 @@ export default function Home() {
       </Head>
         <Page>
           <h2>Schedule</h2>
-          <p>The course schedule is as follows. In the below table, blue PDF icons ( {<FontAwesomeIcon icon={faFilePdf} size="1x" id="mandatoryNoHover"/>} ) represent required readings for the week, whereas yellow icons ( {<FontAwesomeIcon icon={faFilePdf} size="1x" id="optionalNoHover"/>} ) represent optional readings.</p>
+          <p>The first several weeks of the course schedule is as follows. In the below schedule, blue PDF icons ({<FontAwesomeIcon icon={faFilePdf} size="1x" id="mandatoryNoHover"/>}) represent required readings for the week, whereas yellow icons ({<FontAwesomeIcon icon={faFilePdf} size="1x" id="optionalNoHover"/>}) represent optional readings.</p>
           <Table id="tabular">
           <thead>
               <tr>
@@ -86,7 +84,7 @@ export default function Home() {
               <tr>
                 <td>09/13/2021 (Monday)</td>
                 <td>Lecture: Supervised Learning in Healthcare I <i>(Rahul Krishnan)</i></td>
-                <td rowSpan="3">
+                <td rowSpan="3" style={{verticalAlign: "middle"}}>
                 {makeLink("mandatory", 
                   "https://arxiv.org/abs/1606.00931", 
                   "DeepSurv: Personalized Treatment... (Katzman et al.)")}
@@ -119,7 +117,7 @@ export default function Home() {
               <tr>
                 <td>09/20/2021 (Monday)</td>
                 <td>Lecture: Time Series Modeling in Healthcare I <i>(Rahul Krishnan)</i></td>
-                <td rowSpan="3">
+                <td rowSpan="3" style={{verticalAlign: "middle"}}>
                 {makeLink("mandatory", 
                   "https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/5b7372dc1ae6cf102e27b7e7/1534292701747/13.pdf", 
                   "Disease-Atlas: Navigating Disease Trajectories... (Lim et al.)")}
@@ -148,7 +146,7 @@ export default function Home() {
               <tr>
                 <td>09/27/2021 (Monday)</td>
                 <td>Guest Lecture <i>(Kristen Severson)</i></td>
-                <td rowSpan="3">
+                <td rowSpan="3" style={{verticalAlign: "middle"}}>
                 {makeLink("mandatory", 
                   "https://people.csail.mit.edu/dsontag/papers/WanSonWan_kdd14.pdf", 
                   "Unsupervised Learning of Disease Progression... (Wang et al.)")}
@@ -181,7 +179,7 @@ export default function Home() {
               <tr>
                 <td>10/04/2021 (Monday)</td>
                 <td>Lecture: Clinical Natural Language Processing <i>(Rahul Krishnan)</i></td>
-                <td rowSpan="3">
+                <td rowSpan="3" style={{verticalAlign: "middle"}}>
                 {makeLink("mandatory", 
                   "https://arxiv.org/pdf/1706.03762.pdf", 
                   "Attention Is All You Need (Vaswani et al.)")}
@@ -210,7 +208,7 @@ export default function Home() {
               <tr>
                 <td>10/11/2021 (Monday)</td>
                 <td>Thanksgiving: No Class</td>
-                <td rowSpan="3">
+                <td rowSpan="3" style={{verticalAlign: "middle"}}>
                 {makeLink("mandatory", 
                   "https://arxiv.org/abs/1912.08142", 
                   "Causality matters in medical imaging (Castro et al.)")}

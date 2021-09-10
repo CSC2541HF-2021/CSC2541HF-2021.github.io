@@ -15,7 +15,7 @@ export default function CourseOverview() {
             <b>Time: </b> M/W/F 1:00PM - 2:00PM.
         </div>
         <div>
-            <b>Location: </b> Online before 9/17/2021; UC 85 afterwards.
+            <b>Location: </b> Online before 9/17/2021; <a href="https://goo.gl/maps/hM9tdKGegjp6dbSV7" target="_blank">UC 85</a> afterwards.
         </div>
         </Card.Body>
         </Card>

@@ -22,12 +22,10 @@ export default function Home() {
             <li><b>15%</b>: Project Presentation (completed in project groups)</li>
             <li><b>40%</b>: Project Final Report (completed in project groups)</li>
           </ul>
-          <h5>Computing Recourses</h5>
-          <p> We assume that all students either have access to a computing resource or <a href="https://research.google.com/colaboratory/">Google Colab</a> is sufficient for their purpose. Under other conditions, please contact us <b> as early as possible</b>, and we will try to provide it for you. </p>
           <br></br>
           <h2>FAQ</h2>
-          <p>FAQ coming soon!</p>
-          <br></br>
+          <h5>Will this class provide me with compute for my final project?</h5>
+          <p>As a graduate-level course, we are assuming that most students in this class have a laboratory affiliation which grants them access to computing resources which they may use for the purposes of this class. If you do not have access to compute via a laboratory affiliation, please consider using <a href="https://research.google.com/colaboratory/">Google Colab</a> to run your experiments, or contact the teaching staff <b>as early as possible</b> and we will do our best to provide some for you.</p>
         </Page>
     </div>
   )
