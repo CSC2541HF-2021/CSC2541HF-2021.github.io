@@ -1,6 +1,5 @@
 import Head from 'next/head'
 import Page from '../../components/page'
-import MDPage from '../../components/mdpage'
 
 export default function Home() {
   return (
@@ -10,7 +9,29 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
         <Page>
-        <MDPage slug="assignments/assignmentsoverview.md"></MDPage>
+        <h2>Assignments</h2>
+
+        <p>This offering of CSC2541 will contain the following assignments (shown below with their grading breakdowns).</p>
+
+        <h4><a href="assignments/papersummary">Paper Summary Assignment (15%)</a></h4>
+        <h6>Due: TBA</h6>
+        <p>In this assignment, you will summarize four papers from the required reading for this course.</p>
+
+        <h4><a href="assignments/paperpresentation">Paper Presentation Assignment (15%)</a></h4>
+        <h6>Due: TBA</h6>
+        <p>In this assignment, you will work with a partner to present a 20-minute deep dive into one of the papers from the required reading for this course.</p>
+
+        <h4>Course Final Project</h4>
+        <h5><a href="assignments/projectproposal">Project Proposal (10%)</a></h5>
+        <h6>Due: TBA</h6>
+        <p>In your proposal, you will propose a novel contribution to the medical machine learning space to serve as your course final project.</p>
+        <h5><a href="assignments/projectpresentation">Project Presentation (15%)</a></h5>
+        <h6>Due: TBA</h6>
+        <p>In this assignment, you will prepare a brief presentation of your project, experiments, and results, to share with your peers.</p>
+        <h5>Project Report (40%)</h5>
+        <h6>Due: TBA</h6>
+        <p>In this assignment, you will prepare a conference-abstract-style write-up of the work that you did, and critically evaluate your contribution within the context of the medical machine learning literature. The detailed requirements and rubric for this component of the final project is forthcoming.</p>
+
         </Page>
     </div>
   )
