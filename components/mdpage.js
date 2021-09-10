@@ -51,32 +51,32 @@ export default class MDPage extends React.Component {
       }
     });
   }
-
-    safeFetch(url, options) {
-      if (options == null) {
-        options = {}
-      }
-
-      if (options.credentials == null) options.credentials = 'same-origin'
-      
-      return fetch(url, options).then(function(response) {
-          if (response.status >= 200 && response.status < 300) {
-              return response.text();
-
-          } else {
-              var error = new Error(
-                  response.statusText || response.status.toString()
-              );
-
-              return Promise.reject(error);
-          }
-      }).catch(err => {
-          return Promise.reject(err);
-      });
+  
+  safeFetch (url, options) {
+    if (options == null) {
+      options = {}
     }
 
+    if (options.credentials == null) options.credentials = 'same-origin'
+    
+    return fetch(url, options).then(function(response) {
+        if (response.status >= 200 && response.status < 300) {
+            return response.text();
+
+        } else {
+            var error = new Error(
+                response.statusText || response.status.toString()
+            );
+
+            return Promise.reject(error);
+        }
+    }).catch(err => {
+        return Promise.reject(err);
+    });
+  }
+
     fetchMarkdown(slug) {
-      this.safeFetch(`/assignments/${slug}.md`)
+      this.safeFetch(`https://csc2541hf-2021.github.io/${slug}`)
       .then((response) => {
           this.setState({
               md: response

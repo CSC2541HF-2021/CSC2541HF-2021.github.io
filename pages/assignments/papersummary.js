@@ -11,7 +11,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
         <Page>
-            <MDPage slug="papersummary"></MDPage>
+            <MDPage slug="assignments/papersummary.md"></MDPage>
             <Table bordered id="tabular">
             <thead>
               <tr>

@@ -10,7 +10,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
         <Page>
-            <MDPage slug="projectproposal"></MDPage>
+            <MDPage slug="assignments/projectproposal.md"></MDPage>
         </Page>
     </div>
   )
