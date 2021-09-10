@@ -11,18 +11,14 @@ export default function CourseStaff() {
         </Row>
         <br></br>
         <Row>
-            <Col>
+            <Col style={{maxWidth: '40%'}}>
                 <Row>
-                    <Col style={{maxWidth: '20%'}}></Col>
-                    <Col className='justify-content-left'>
                         {instructorProfile(
                             "Rahul Krishnan", 
                             "images/rahul.png",
                             "http://www.cs.toronto.edu/~rahulgk",
                             "cs.toronto.edu",
                             "rahulgk")}
-                    </Col>
-                    <Col style={{maxWidth: '20%'}}></Col>
                 </Row>
             </Col>
             <Col>
