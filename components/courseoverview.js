@@ -12,7 +12,7 @@ export default function CourseOverview() {
         </div>
 
         <div>
-            <b>Time: </b> M/W/F 12:00PM - 1:00PM.
+            <b>Time: </b> M/W/F 1:00PM - 2:00PM.
         </div>
         <div>
             <b>Location: </b> Online before 9/17/2021; UC 85 afterwards.
