@@ -1,7 +1,6 @@
 import { Card } from 'react-bootstrap';
 import { Row, Col } from 'react-bootstrap'
 import { bottomTooltip } from '../helpers';
-import { faTreeAlt, faBullhorn } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { useTheme } from 'next-themes'
 import { urlObjectKeys } from 'next/dist/next-server/lib/utils';
@@ -20,6 +19,7 @@ function quercusLogo(dark) {
     }
     return (
         <img
+        className='iconImg'
         height='32px'
         width='32px'
         src="images/quercus-blue-500.png"

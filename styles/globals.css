@@ -69,3 +69,11 @@
   #mandatoryNoHover {
     @apply text-link-blue-500 dark:text-link-blue-200
   }
+
+  .iconImg {
+    -khtml-user-select: none;
+    -o-user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+}
