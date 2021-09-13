@@ -255,6 +255,161 @@ export default function Home() {
                 <td>10/15/2021 (Friday)</td>
                 <td>Guest Lecture <i>(Ruizhi Liao)</i></td>
               </tr>
+              {/* WEEK 7 */}
+              <tr>
+                <td colSpan="3" align="center"><b>Week 7: Interpretability</b></td>
+              </tr>
+              <tr>
+                <td>10/18/2021 (Monday)</td>
+                <td>Lecture: Interpretability <i>(Rahul Krishnan)</i></td>
+                <td rowSpan="3" style={{verticalAlign: "middle"}}>
+                {makeLink("mandatory", 
+                  "https://arxiv.org/pdf/1803.09010.pdf", 
+                  "Datasheets for Datasets (Gebru et al.)")}
+                  <br></br>
+                  {makeLink("mandatory", 
+                  "https://arxiv.org/pdf/1810.03993.pdf", 
+                  "Model Cards for Model Reporting (Mitchell et al.)")}
+                  <br></br>
+                  {makeLink("mandatory", 
+                  "https://arxiv.org/pdf/1810.08810.pdf", 
+                  "The Frontiers of Fairness... (Chouldechova and Roth)")}
+                  <br></br>
+                  {makeLink("optional", 
+                  "https://arxiv.org/pdf/1705.07874.pdf", 
+                  "A Unified Approach to Interpreting Model... (Lundberg and Lee)")}
+                  <br></br>
+                  {makeLink("optional", 
+                  "https://arxiv.org/pdf/1703.04730.pdf", 
+                  "Understanding Black-box Predictions via... (Koh and Liang)")}
+                </td>
+              </tr>
+              <tr>
+                <td>10/20/2021 (Wednesday)</td>
+                <td>Lecture: Guest Lecture <i>(Michael Fralick)</i></td>
+              </tr>
+              <tr>
+                <td>10/22/2021 (Friday)</td>
+                <td>Student Paper Presentations</td>
+              </tr>
+              {/* WEEK 8 */}
+              <tr>
+                <td colSpan="3" align="center"><b>Week 8: Fairness</b></td>
+              </tr>
+              <tr>
+                <td>10/25/2021 (Monday)</td>
+                <td>Guest Lecture <i>(Irene Chen)</i></td>
+                <td rowSpan="3" style={{verticalAlign: "middle"}}>
+                {makeLink("mandatory", 
+                  "https://www.science.org/doi/abs/10.1126/science.aax2342", 
+                  "Dissecting racial bias in an algorithm... (Obermeyer et al.)")}
+                  <br></br>
+                  {makeLink("mandatory", 
+                  "https://www.acpjournals.org/doi/10.7326/M18-1990", 
+                  "Ensuring Fairness in Machine Learning to... (Rajomar et al.)")}
+                  <br></br>
+                  {makeLink("optional", 
+                  "https://arxiv.org/pdf/1805.12002.pdf", 
+                  "Why Is My Classifier Discriminatory? (Chen et al.)")}
+                  <br></br>
+                  {makeLink("optional", 
+                  "https://jamanetwork.com/journals/jamadermatology/article-abstract/2688587", 
+                  "Machine Learning and Health Care Disparities... (Adamson and Smith)")}
+                </td>
+              </tr>
+              <tr>
+                <td>10/27/2021 (Wednesday)</td>
+                <td>Student Paper Presentations</td>
+              </tr>
+              <tr>
+                <td>10/29/2021 (Friday)</td>
+                <td>Student Paper Presentations</td>
+              </tr>
+              {/* WEEK 9 */}
+              <tr>
+                <td colSpan="3" align="center"><b>Week 9: Clinical Trials</b></td>
+              </tr>
+              <tr>
+                <td>11/01/2021 (Monday)</td>
+                <td>Lecture: Clinical Trials <i>(Rahul Krishnan)</i></td>
+                <td rowSpan="3" style={{verticalAlign: "middle"}}>
+                {makeLink("mandatory", 
+                  "https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-021-05489-x", 
+                  "The role of machine learning in clinical research... (Weissler et al.)")}
+                  <br></br>
+                  {makeLink("mandatory", 
+                  "https://www.nature.com/articles/s41586-021-03430-5", 
+                  "Evaluating eligibility criteria of oncology... (Liu et al.)")}
+                  <br></br>
+                  {makeLink("mandatory", 
+                  "https://arxiv.org/pdf/2003.06474.pdf", 
+                  "Optimizing Medical Treatment for Sepsis in... (Li et al.)")}
+                  <br></br>
+                  {makeLink("optional", 
+                  "https://www.nature.com/articles/s41746-019-0148-3", 
+                  "Artificial intelligence and machine learning in clinical... (Shah et al.)")}
+                  <br></br>
+                  {makeLink("optional", 
+                  "https://www.nature.com/articles/s41591-018-0310-5", 
+                  "Guidelines for reinforcement learning in healthcare (Gottesman et al.)")}
+                </td>
+              </tr>
+              <tr>
+                <td>11/03/2021 (Wednesday)</td>
+                <td>Student Paper Presentations</td>
+              </tr>
+              <tr>
+                <td>11/05/2021 (Friday)</td>
+                <td>Student Paper Presentations</td>
+              </tr>
+              {/* WEEK 10 */}
+              <tr>
+                <td colSpan="3" align="center"><b>Week 10: Reading Week (No Classes)</b></td>
+              </tr>
+              <tr>
+                <td colSpan="3" align="center"></td>
+              </tr>
+              {/* WEEK 11 */}
+              <tr>
+                <td colSpan="3" align="center"><b>Week 11: Causality and Missingness</b></td>
+              </tr>
+              <tr>
+                <td>11/15/2021 (Monday)</td>
+                <td>Lecture: Causality and Missingness <i>(Rahul Krishnan)</i></td>
+                <td rowSpan="3" style={{verticalAlign: "middle"}}>
+                {makeLink("mandatory", 
+                  "https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/", 
+                  "Causal Inference: What If. (Chapter 1) (Hernan and Robins)")}
+                  <br></br>
+                  {makeLink("mandatory", 
+                  "https://www.inference.vc/causal-inference-3-counterfactuals/", 
+                  "Causal Inference 3: Counterfactuals (Huszar)")}
+                  <br></br>
+                  {makeLink("mandatory", 
+                  "https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1874961", 
+                  "Graphical Models for Processing Missing Data (Mohan and Pearl)")}
+                  <br></br>
+                  {makeLink("mandatory", 
+                  "https://www.nature.com/articles/s41598-018-24271-9", 
+                  "Recurrent Neural Networks for Multivariate Time... (Che et al.)")}
+                  <br></br>
+                  {makeLink("optional", 
+                  "https://arxiv.org/pdf/1606.03976.pdf", 
+                  "Estimating individual treatment effect: ... (Shalit et al.)")}
+                  <br></br>
+                  {makeLink("optional", 
+                  "https://academic.oup.com/ectj/article/21/1/C1/5056401", 
+                  "Double/debiased machine learning for... (Chernozhukov et al.)")}
+                </td>
+              </tr>
+              <tr>
+                <td>11/17/2021 (Wednesday)</td>
+                <td>Student Paper Presentations</td>
+              </tr>
+              <tr>
+                <td>11/19/2021 (Friday)</td>
+                <td>Student Paper Presentations</td>
+              </tr>
             </tbody>
           </Table>
 
