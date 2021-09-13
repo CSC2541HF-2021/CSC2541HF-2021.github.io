@@ -49,6 +49,9 @@ export default function CourseOverview() {
         <div>
             <b>Location: </b> Online before 9/17/2021; <a href="https://goo.gl/maps/hM9tdKGegjp6dbSV7" target="_blank">UC 85</a> afterwards.
         </div>
+        <div>
+            <b>Office Hours (Rahul):</b> Tuesdays, 7:00PM - 8:00PM, on Zoom.
+        </div>
         <br></br>
             {/* Icons for various course features */}
         <Row>
