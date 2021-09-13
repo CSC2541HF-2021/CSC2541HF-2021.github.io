@@ -47,6 +47,7 @@ export default function Home() {
         <Page>
           <h2>Schedule</h2>
           <p>The first several weeks of the course schedule is as follows. In the below schedule, blue PDF icons ({<FontAwesomeIcon icon={faFilePdf} size="1x" id="mandatoryNoHover"/>}) represent required readings for the week, whereas yellow icons ({<FontAwesomeIcon icon={faFilePdf} size="1x" id="optionalNoHover"/>}) represent optional readings.</p>
+          <p>Lecture slides can be found linked below; lecture recordings can be found on Quercus.</p>
           <Table id="tabular">
           <thead>
               <tr>
@@ -97,9 +98,21 @@ export default function Home() {
                   "https://www.ahajournals.org/doi/full/10.1161/01.cir.97.18.1837", 
                   "Prediction of Coronary Heart Disease... (Wilson et al.)")}
                   <br></br>
-                  {makeLink("mandatory", 
+                  {makeLink("optional",
+                  "https://www.nature.com/articles/nature21056",
+                  "Dermatologist-level classification of skin cancer... (Esteva et al.)")}
+                  <br></br>
+                  {makeLink("optional", 
                   "https://www.science.org/doi/full/10.1126/scitranslmed.aab3719", 
                   "A targeted real-time early warning... (Henry et al.)")}
+                  <br></br>
+                  {makeLink("optional",
+                  "https://data.princeton.edu/wws509/notes/c7.pdf",
+                  "Survival Models (Rodriguez)")}
+                  <br></br>
+                  {makeLink("optional",
+                  "https://www.nature.com/bjc/articles?type=tutorial-paper",
+                  "Survival Analysis Tutorial (Clark, Bradburn, et al.)")}
                 </td>
               </tr>
               <tr>
@@ -129,6 +142,14 @@ export default function Home() {
                   {makeLink("mandatory", 
                   "https://arxiv.org/abs/1609.09869", 
                   "Structured Inference Networks for Nonlinear... (Krishnan et al.)")}
+                  <br></br>
+                  {makeLink("optional",
+                  "https://arxiv.org/pdf/1909.07782.pdf",
+                  "Interpolation-Prediction Networks for Irregularly... (Shukla et al.)")}
+                  <br></br>
+                  {makeLink("optional",
+                  "http://www.marzyehghassemi.com//wp-content/uploads/2016/10/JAMIA_2016_Ghassemi_Wu_Understanding_vasopressor_interventions.pdf",
+                  "Understanding vasopressor intervention and... (Wu, Ghassemi et al.)")}
                 </td>
               </tr>
               <tr>
@@ -147,10 +168,6 @@ export default function Home() {
                 <td>09/27/2021 (Monday)</td>
                 <td>Guest Lecture <i>(Kristen Severson)</i></td>
                 <td rowSpan="3" style={{verticalAlign: "middle"}}>
-                {makeLink("mandatory", 
-                  "https://people.csail.mit.edu/dsontag/papers/WanSonWan_kdd14.pdf", 
-                  "Unsupervised Learning of Disease Progression... (Wang et al.)")}
-                  <br></br>
                   {makeLink("mandatory", 
                   "https://arxiv.org/abs/2102.11218", 
                   "Neural Pharmacodynamic State Space Modeling (Hussain et al.)")}
@@ -162,6 +179,14 @@ export default function Home() {
                   {makeLink("mandatory", 
                   "https://arxiv.org/abs/1807.04709", 
                   "Inferring Multidimensional Rates of Aging... (Pierson et al.)")}
+                  <br></br>
+                  {makeLink("optional", 
+                  "https://people.csail.mit.edu/dsontag/papers/WanSonWan_kdd14.pdf", 
+                  "Unsupervised Learning of Disease Progression... (Wang et al.)")}
+                  <br></br>
+                  {makeLink("optional",
+                  "https://www.nature.com/articles/s41598-019-49656-2",
+                  "Machine learning for comprehensive forecasting... (Fisher et al.)")}
                 </td>
               </tr>
               <tr>
@@ -217,7 +242,7 @@ export default function Home() {
                   "https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.118.034338", 
                   "Fully Automated Echocardiogram Interpretation... (Zhang et al.)")}
                    <br></br>
-                  {makeLink("mandatory", 
+                  {makeLink("optional", 
                   "https://arxiv.org/pdf/1505.04597.pdf", 
                   "U-Net: Convolutional Networks for Biomedical... (Ronneberger et al.)")}
                 </td>
