@@ -84,7 +84,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>09/13/2021 (Monday)</td>
-                <td>Lecture: Supervised Learning in Healthcare I <i>(Rahul Krishnan)</i></td>
+                <td>Lecture: <a href="/lectures/csc2541_lecture2-sup_learning1.pdf" target="_blank">Supervised Learning in Healthcare I</a> <i>(Rahul Krishnan)</i></td>
                 <td rowSpan="3" style={{verticalAlign: "middle"}}>
                 {makeLink("mandatory", 
                   "https://arxiv.org/abs/1606.00931", 
