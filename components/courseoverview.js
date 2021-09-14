@@ -54,8 +54,9 @@ export default function CourseOverview() {
             <ul>
                 <li><b>Rahul: </b> Tuesdays, 7:00PM - 8:00PM, <a href="https://q.utoronto.ca/courses/239200/discussion_topics/1357692" target="_blank">on Zoom</a>.</li>
                 <li><b>Michael: </b> Thursdays, 9:00AM - 10:00AM, <a href="https://calendly.com/michaelcooper/michael-csc2541-oh" target="_blank">by appointment</a>.</li>
-                <li><b>Farnam: </b> TBA.</li>
+                <li><b> Farnam: </b> Thursdays, 11:00AM - 1:00PM, <a href="https://calendly.com/frnm-mansouri/farnam-s-csc-2541-office-hours" target="_blank">by appointment</a>  </li>
             </ul>
+            * For required presentations before the class if non of the Office Hours work for you, please  <a href="mailto:farnam.mansouri@mail.utoronto.ca">email Farnam</a> 48hrs in advance
         </div>
             {/* Icons for various course features */}
         <Row>
