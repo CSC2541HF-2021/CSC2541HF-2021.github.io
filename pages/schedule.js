@@ -263,10 +263,6 @@ export default function Home() {
                 <td>10/18/2021 (Monday)</td>
                 <td>Lecture: Interpretability <i>(Rahul Krishnan)</i></td>
                 <td rowSpan="3" style={{verticalAlign: "middle"}}>
-                {makeLink("mandatory", 
-                  "https://arxiv.org/pdf/1803.09010.pdf", 
-                  "Datasheets for Datasets (Gebru et al.)")}
-                  <br></br>
                   {makeLink("mandatory", 
                   "https://arxiv.org/pdf/1810.03993.pdf", 
                   "Model Cards for Model Reporting (Mitchell et al.)")}
@@ -274,6 +270,14 @@ export default function Home() {
                   {makeLink("mandatory", 
                   "https://arxiv.org/pdf/1810.08810.pdf", 
                   "The Frontiers of Fairness... (Chouldechova and Roth)")}
+                  <br></br>
+                  {makeLink("mandatory",
+                  "https://dl.acm.org/doi/10.1145/2783258.2788613",
+                  "Intelligible Models for Healthcare: ... (Caruana et al.)")}
+                  <br></br>
+                  {makeLink("optional", 
+                  "https://arxiv.org/pdf/1803.09010.pdf", 
+                  "Datasheets for Datasets (Gebru et al.)")}
                   <br></br>
                   {makeLink("optional", 
                   "https://arxiv.org/pdf/1705.07874.pdf", 
