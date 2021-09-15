@@ -28,9 +28,9 @@ export default function Home() {
         <h5><a href="assignments/projectpresentation">Project Presentation (15%)</a></h5>
         <h6>Due: TBA</h6>
         <p>In this assignment, you will prepare a brief presentation of your project, experiments, and results, to share with your peers.</p>
-        <h5>Project Report (40%)</h5>
+        <h5><a href="assignments/projectreport">Project Report (40%)</a></h5>
         <h6>Due: TBA</h6>
-        <p>In this assignment, you will prepare a conference-abstract-style write-up of the work that you did, and critically evaluate your contribution within the context of the medical machine learning literature. The detailed requirements and rubric for this component of the final project is forthcoming.</p>
+        <p>In this assignment, you will prepare a conference-abstract-style write-up of the work that you did, and critically evaluate your contribution within the context of the medical machine learning literature.</p>
 
         </Page>
     </div>
