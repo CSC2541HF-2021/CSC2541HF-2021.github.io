@@ -117,7 +117,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>09/15/2021 (Wednesday)</td>
-                <td>Lecture: Supervised Learning in Healthcare II <i>(Rahul Krishnan)</i></td>
+                <td>Lecture: <a href="/lectures/csc2541_lecture3-sup_learning2.pdf" target="_blank">Supervised Learning in Healthcare II</a> <i>(Rahul Krishnan)</i></td>
               </tr>
               <tr>
                 <td>09/17/2021 (Friday)</td>
