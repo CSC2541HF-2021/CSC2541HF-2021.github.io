@@ -24,7 +24,7 @@ export default function Home() {
         <h4>Course Final Project</h4>
         <p>In addition to the guidelines for each of the components of your final project, we've also put together a collection of <a href="/projectresources">project resources</a> which you may find helpful.</p>
         <h5><a href="assignments/projectproposal">Project Proposal (10%)</a></h5>
-        <h6>Due: TBA</h6>
+        <h6>Due: October 1, 2021, at 11:59PM ET.</h6>
         <p>In your proposal, you will propose a novel contribution to the medical machine learning space to serve as your course final project.</p>
         <h5><a href="assignments/projectpresentation">Project Presentation (15%)</a></h5>
         <h6>Due: TBA</h6>
