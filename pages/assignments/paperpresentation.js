@@ -12,7 +12,7 @@ export default function Home() {
         <Page>
 
           <h2>Paper Presentation</h2>
-          <h5>Due: TBA</h5>
+          <h5>Due: Varies based on presentation slot.</h5>
 
           <p>Through your paper presentation, you will work with a partner to present a deep dive into one of the assigned reading papers for the class.</p>
 

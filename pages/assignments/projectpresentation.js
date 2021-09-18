@@ -12,7 +12,7 @@ export default function Home() {
         <Page>
 
           <h2>Project Presentation</h2>
-          <h5>Due: TBA</h5>
+          <h5>Due: Varies based on presentation slot.</h5>
 
           <p>The final project presentation is your chance to showcase the hard work that you’ve done in your course projects this quarter. These presentations are to be completed in the same manner as the partnered paper presentations, except that these will be done in your project groups of up to four students (while your paper presentations were done in groups of two), and that these presentations will be 5 minutes long (while you had 25 minutes for your paper presentations). It is not expected that all group members have a speaking role in the presentation, but it is expected that all team members contribute to the presentation component of the project. An additional difference between the project presentations and the paper presentations is that the project presentations do not include the same requirement for a background/tutorial segment, as time constraints may make that particularly challenging.</p>
 

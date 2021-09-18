@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
         <Page>
           <h2>Final Project Report</h2>
-          <h5>Due: TBA</h5>
+          <h5>Due: December 8, at 11:59PM ET.</h5>
           <h6>Adapted from and credit to similar work from <a href="http://www.cs.toronto.edu/~duvenaud/" target="_blank">David Duvenaud</a>.</h6>
           <p>Your project report should resemble a conference workshop abstract (<a href="https://sites.google.com/view/med-neurips-2020/abstracts" target="_blank">examples here</a>). If you feel that your project won’t cleanly fit into this rubric, please reach out to Rahul or the TAs.</p>
 

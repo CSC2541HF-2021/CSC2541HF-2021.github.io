@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
         <Page>
           <h2>Project Proposal</h2>
-          <h5>Due: TBA</h5>
+          <h5>Due: October 1, 2021, at 11:59PM ET.</h5>
           <h6>Adapted from and credit to <a href="http://cs231n.stanford.edu/project.html" target="_blank">CS 231N’s project proposal guidelines</a>.</h6>
 
           <p>The project proposal will consist of a 250-400 word submission, detailing the following about your project plan:</p>

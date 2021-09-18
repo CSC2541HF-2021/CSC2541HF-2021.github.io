@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
         <Page>
           <h2>Paper Summary Assignment</h2>
-          <h5>Due: TBA</h5>
+          <h5>Due: October 29, at 11:59PM ET.</h5>
 
           <p>In the paper summary assignment, you will select and summarize four papers of your choosing from the required reading list. In summarizing each paper, contextualize the paper within the research landscape, discuss the motivation and problem definition, the key approach of the paper - including the features that make it especially unique from other contemporary literature, and results/implications of the work for the medical - and medical machine learning - community.</p>
 

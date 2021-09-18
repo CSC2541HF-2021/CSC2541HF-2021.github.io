@@ -46,7 +46,7 @@ export default function Home() {
       </Head>
         <Page>
           <h2>Schedule</h2>
-          <p>The first several weeks of the course schedule is as follows. In the below schedule, blue PDF icons ({<FontAwesomeIcon icon={faFilePdf} size="1x" id="mandatoryNoHover"/>}) represent required readings for the week, whereas yellow icons ({<FontAwesomeIcon icon={faFilePdf} size="1x" id="optionalNoHover"/>}) represent optional readings.</p>
+          <p>The first several weeks of the course schedule is as follows. In the below schedule, blue PDF icons ({<FontAwesomeIcon icon={faFilePdf} size="1x" id="mandatoryNoHover"/>}) represent required readings for the week, whereas yellow icons ({<FontAwesomeIcon icon={faFilePdf} size="1x" id="optionalNoHover"/>}) represent optional readings. Highlighted cells indicate that a course deliverable is due on that date.</p>
           <p>Lecture slides can be found linked below; lecture recordings can be found on Quercus.</p>
           <Table id="tabular">
           <thead>
@@ -194,8 +194,11 @@ export default function Home() {
                 <td>Lecture: Disease Progression Modeling <i>(Rahul Krishnan)</i></td>
               </tr>
               <tr>
-                <td>10/01/2021 (Friday)</td>
-                <td>Student Paper Presentations</td>
+                <td id="deadlineTableRow">10/01/2021 (Friday)</td>
+                <td id="deadlineTableRow">Student Paper Presentations
+                  <br></br>
+                  <b>Project Proposal Assignment Due</b>
+                </td>
               </tr>
               {/* WEEK 5 */}
               <tr>
@@ -326,8 +329,11 @@ export default function Home() {
                 <td>Student Paper Presentations</td>
               </tr>
               <tr>
-                <td>10/29/2021 (Friday)</td>
-                <td>Student Paper Presentations</td>
+                <td id="deadlineTableRow">10/29/2021 (Friday)</td>
+                <td id="deadlineTableRow">Student Paper Presentations
+                  <br></br>
+                  <b>Paper Summary Assignment Due</b>
+                </td>
               </tr>
               {/* WEEK 9 */}
               <tr>
@@ -414,8 +420,83 @@ export default function Home() {
                 <td>11/19/2021 (Friday)</td>
                 <td>Student Paper Presentations</td>
               </tr>
+              {/* WEEK 12 */}
+              <tr>
+                <td colSpan="3" align="center"><b>Week 12: Student Presentations</b></td>
+              </tr>
+              <tr>
+                <td>11/22/2021 (Monday)</td>
+                <td>Student Paper Presentations</td>
+                <td></td>
+                {/* <td rowSpan="3" style={{verticalAlign: "middle"}}></td> */}
+              </tr>
+              <tr>
+                <td>11/24/2021 (Wednesday)</td>
+                <td>Student Paper Presentations</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>11/26/2021 (Friday)</td>
+                <td>Student Project Presentations</td>
+                <td></td>
+              </tr>
+              {/* WEEK 13 */}
+              <tr>
+                <td colSpan="3" align="center"><b>Week 13: Student Presentations</b></td>
+              </tr>
+              <tr>
+                <td>11/29/2021 (Monday)</td>
+                <td>Student Project Presentations</td>
+                {/* <td rowSpan="3" style={{verticalAlign: "middle"}}></td> */}
+                <td></td>
+              </tr>
+              <tr>
+                <td>12/01/2021 (Wednesday)</td>
+                <td>Student Project Presentations</td>
+                <td></td>
+              </tr>
+              <tr>
+                <td>12/03/2021 (Friday)</td>
+                <td>Student Project Presentations</td>
+                <td></td>
+              </tr>
+            {/* WEEK 13 */}
+            <tr>
+                <td colSpan="3" align="center"><b>Week 14: Student Presentations</b></td>
+              </tr>
+              <tr>
+                <td>12/06/2021 (Monday)</td>
+                <td>Student Project Presentations</td>
+                {/* <td rowSpan="3" style={{verticalAlign: "middle"}}></td> */}
+                <td></td>
+              </tr>
+              <tr>
+                <td id="deadlineTableRow">12/01/2021 (Wednesday)</td>
+                <td id="deadlineTableRow">Student Project Presentations; Course Wrap-Up
+                  <br></br>
+                  <b>Project Final Report Due</b>
+                </td>
+                <td id="deadlineTableRow"></td>
+              </tr>
             </tbody>
           </Table>
+
+{/* 
+Week 12: 
+M N22 :  2 presenters 
+W N24 -  2 presenters
+F  N26 - Group -1/0
+
+
+Week 13: Group presentations begin
+M N29 - Group 1/2
+W D1  - Group 3/4
+F  D3  - Group 5/6
+
+Week 14: Project report due
+M D6   - Group 7/8
+W D8  - Group 9 & course recap - Deadline for project report
+ */}
 
         </Page>
     </div>
