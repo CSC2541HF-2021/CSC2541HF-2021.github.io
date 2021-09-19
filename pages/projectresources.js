@@ -22,7 +22,9 @@ export default function Home() {
 
           <h6><a href="https://themmrf.org/" target="_blank">MMRF</a></h6>
           <p>Data from a 10-year observation study of 1000 newly diagnosed myeloma patients receiving various standard approved treatments. Access instructions <a href="https://isb-cancer-genomics-cloud.readthedocs.io/en/latest/sections/data/MMRF_about.html" target="_blank">here</a>.</p>
-          
+          <ul>
+            <li><a href="https://github.com/clinicalml/ml_mmrf" target="_blank">ML-MMRF</a> is a GitHub repository built to process the MMRF CoMMpass Dataset and allows researchers to use these data for machine learning. It provides code to parse the raw MMRF files into tensors (stored in `numpy` matrices), clean and normalize the tensors, validate the procedure.</li>
+          </ul>
           <h6><a href="https://www.med.upenn.edu/cbica/brats2020/registration.html" target="_blank">BraTS (Brain Tumor Segmentation)</a></h6>
           <p>Multi-institutional routine clinically-acquired pre-operative multimodal MRI scans of glioblastoma (GBM/HGG) and lower grade glioma (LGG), with pathologically confirmed diagnosis.</p>
 
