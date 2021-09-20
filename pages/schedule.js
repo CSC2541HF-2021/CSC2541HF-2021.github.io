@@ -129,7 +129,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>09/20/2021 (Monday)</td>
-                <td>Lecture: Time Series Modeling in Healthcare I <i>(Rahul Krishnan)</i></td>
+                <td>Lecture: <a href="lectures/csc2541_lecture4-ts_learning1.pdf" target="_blank">Time Series Modeling in Healthcare I</a> <i>(Rahul Krishnan)</i></td>
                 <td rowSpan="3" style={{verticalAlign: "middle"}}>
                 {makeLink("mandatory", 
                   "https://static1.squarespace.com/static/59d5ac1780bd5ef9c396eda6/t/5b7372dc1ae6cf102e27b7e7/1534292701747/13.pdf", 
