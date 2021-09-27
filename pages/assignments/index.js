@@ -19,7 +19,7 @@ export default function Home() {
 
         <h4><a href="assignments/paperpresentation">Paper Presentation Assignment (15%)</a></h4>
         <h6>Due: Varies based on presentation slot.</h6>
-        <p>In this assignment, you will work with a partner to present a 20-minute deep dive into one of the papers from the required reading for this course.</p>
+        <p>In this assignment, you will work with a partner to present a 25-minute deep dive into one of the papers from the required reading for this course.</p>
 
         <h4>Course Final Project</h4>
         <p>In addition to the guidelines for each of the components of your final project, we've also put together a collection of <a href="/projectresources">project resources</a> which you may find helpful.</p>
