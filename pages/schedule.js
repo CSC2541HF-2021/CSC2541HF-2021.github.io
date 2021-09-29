@@ -191,7 +191,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>09/29/2021 (Wednesday)</td>
-                <td>Lecture: Disease Progression Modeling <i>(Rahul Krishnan)</i></td>
+                <td>Lecture: <a href="lectures/csc2541_lecture6-disease_prog.pdf" target="_blank">Disease Progression Modeling</a> <i>(Rahul Krishnan)</i></td>
               </tr>
               <tr>
                 <td id="deadlineTableRow">10/01/2021 (Friday)</td>
