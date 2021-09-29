@@ -187,6 +187,10 @@ export default function Home() {
                   {makeLink("optional",
                   "https://www.nature.com/articles/s41598-019-49656-2",
                   "Machine learning for comprehensive forecasting... (Fisher et al.)")}
+                  <br></br>
+                  {makeLink("optional",
+                  "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4191837/",
+                  "Modeling Disease Progression via Fused Sparse... (Zhou et al.)")}
                 </td>
               </tr>
               <tr>
