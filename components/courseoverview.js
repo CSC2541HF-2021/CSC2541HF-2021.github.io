@@ -47,7 +47,7 @@ export default function CourseOverview() {
             <b>Time: </b> M/W/F 1:00PM - 2:00PM.
         </div>
         <div>
-            <b>Location: </b> Online before 9/17/2021; <a href="https://goo.gl/maps/hM9tdKGegjp6dbSV7" target="_blank">UC 85</a> afterwards.
+            <b>Location: </b><a href="https://goo.gl/maps/S1q3m7v3T1e76r826" target="_blank">ES B142</a> afterwards.
         </div>
         <div>
             <b>Office Hours:</b>
