@@ -210,7 +210,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>10/04/2021 (Monday)</td>
-                <td>Lecture: Clinical Natural Language Processing <i>(Rahul Krishnan)</i></td>
+                <td>Lecture: <a href="lectures/lecture7-clinicalnlp.pdf" target="_blank"> Clinical Natural Language Processing</a> <i>(Rahul Krishnan)</i></td>
                 <td rowSpan="3" style={{verticalAlign: "middle"}}>
                 {makeLink("mandatory", 
                   "https://arxiv.org/pdf/1706.03762.pdf", 
