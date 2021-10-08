@@ -166,7 +166,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>09/27/2021 (Monday)</td>
-                <td>Guest Lecture <i>(Kristen Severson)</i></td>
+                <td>Guest Lecture: <a href="talks/csc2541_guest_lecture1_Severson.pdf" target="_blank"> Guest Lecture </a> <i>(Kristen Severson)</i></td>
                 <td rowSpan="3" style={{verticalAlign: "middle"}}>
                   {makeLink("mandatory", 
                   "https://arxiv.org/abs/2102.11218", 
@@ -231,7 +231,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>10/08/2021 (Friday)</td>
-                <td>Guest Lecture <i>(Monica Agrawal)</i></td>
+                <td> <a href="talks/csc2541_guest_lecture2_Monica.pdf" target="_blank"> Guest Lecture </a> <i>(Monica Agrawal)</i></td>
               </tr>
               {/* WEEK 6 */}
               <tr>
