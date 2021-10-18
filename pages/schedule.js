@@ -210,7 +210,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>10/04/2021 (Monday)</td>
-                <td>Lecture: <a href="lectures/lecture7-clinicalnlp.pdf" target="_blank"> Clinical Natural Language Processing</a> <i>(Rahul Krishnan)</i></td>
+                <td>Lecture: <a href="lectures/csc2541_lecture7-clinicalnlp.pdf" target="_blank"> Clinical Natural Language Processing</a> <i>(Rahul Krishnan)</i></td>
                 <td rowSpan="3" style={{verticalAlign: "middle"}}>
                 {makeLink("mandatory", 
                   "https://arxiv.org/pdf/1706.03762.pdf", 
@@ -256,7 +256,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>10/13/2021 (Wednesday)</td>
-                <td>Lecture: Medical Imaging <i>(Rahul Krishnan)</i></td>
+                <td>Lecture: <a href="lectures/csc2541_lecture8-imaging.pdf" target="_blank"> Medical Imaging </a> <i>(Rahul Krishnan)</i></td>
               </tr>
               <tr>
                 <td>10/15/2021 (Friday)</td>
