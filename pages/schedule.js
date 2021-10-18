@@ -264,11 +264,11 @@ export default function Home() {
               </tr>
               {/* WEEK 7 */}
               <tr>
-                <td colSpan="3" align="center"><b>Week 7: Interpretability</b></td>
+                <td colSpan="3" align="center"><b>Week 7: Self Supervised Learning and Deployment</b></td>
               </tr>
               <tr>
                 <td>10/18/2021 (Monday)</td>
-                <td>Lecture: Interpretability <i>(Rahul Krishnan)</i></td>
+                <td>Lecture: <a href="lectures/csc2541_lecture9-ssl.pdf" target="_blank">Self-Supervised Learning</a> <i>(Rahul Krishnan)</i></td>
                 <td rowSpan="3" style={{verticalAlign: "middle"}}>
                   {makeLink("mandatory", 
                   "https://arxiv.org/pdf/1810.03993.pdf", 
@@ -297,7 +297,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>10/20/2021 (Wednesday)</td>
-                <td>Lecture: Guest Lecture <i>(Michael Fralick)</i></td>
+                <td>Lecture: Deployment of Clinical ML Systems <i>(Michael Fralick)</i></td>
               </tr>
               <tr>
                 <td>10/22/2021 (Friday)</td>
