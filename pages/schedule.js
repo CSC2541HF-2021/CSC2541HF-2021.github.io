@@ -256,7 +256,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>10/13/2021 (Wednesday)</td>
-                <td>Lecture: <a href="lectures/csc2541_lecture8-imaging.pdf" target="_blank"> Medical Imaging </a> <i>(Rahul Krishnan)</i></td>
+                <td>Lecture: <a href="lectures/csc2541_lecture8-imaging.pdf" target="_blank"> Medical Imaging</a> <i>(Rahul Krishnan)</i></td>
               </tr>
               <tr>
                 <td>10/15/2021 (Friday)</td>
@@ -297,7 +297,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>10/20/2021 (Wednesday)</td>
-                <td>Lecture: Deployment of Clinical ML Systems <i>(Michael Fralick)</i></td>
+                <td>Lecture: <a href="talks/csc2541_guest_lecture3_Fralick.pdf" target="_blank">Deployment of Clinical ML Systems</a> <i>(Michael Fralick)</i></td>
               </tr>
               <tr>
                 <td>10/22/2021 (Friday)</td>
