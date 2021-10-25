@@ -260,7 +260,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>10/15/2021 (Friday)</td>
-                <td>Guest Lecture <i>(Ruizhi Liao)</i></td>
+                <td>Guest Lecture: <a href="talks/csc2541_guest_lecture3_Liao.pdf" target="_blank">Multimodal Representation Learning for Medical Image Analysis</a> <i>(Ruizhi Liao)</i></td>
               </tr>
               {/* WEEK 7 */}
               <tr>
@@ -297,7 +297,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>10/20/2021 (Wednesday)</td>
-                <td>Lecture: <a href="talks/csc2541_guest_lecture3_Fralick.pdf" target="_blank">Deployment of Clinical ML Systems</a> <i>(Michael Fralick)</i></td>
+                <td>Lecture: <a href="talks/csc2541_guest_lecture4_Fralick.pdf" target="_blank">Deployment of Clinical ML Systems</a> <i>(Michael Fralick)</i></td>
               </tr>
               <tr>
                 <td>10/22/2021 (Friday)</td>
@@ -309,7 +309,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>10/25/2021 (Monday)</td>
-                <td>Guest Lecture <i>(Irene Chen)</i></td>
+                <td>Guest Lecture: <a href="talks/csc2541_guest_lecture5_Irene.pdf" target="_blank">Machine Learning for Equitable Healthcare</a> <i>(Irene Chen)</i></td>
                 <td rowSpan="3" style={{verticalAlign: "middle"}}>
                 {makeLink("mandatory", 
                   "https://www.science.org/doi/abs/10.1126/science.aax2342", 
