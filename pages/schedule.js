@@ -345,7 +345,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>11/01/2021 (Monday)</td>
-                <td>Lecture: Clinical Trials <i>(Rahul Krishnan)</i></td>
+                <td>Lecture: <a href="lectures/csc2541_lecture10-rcts.pdf" target="_blank">Clinical Trials</a> <i>(Rahul Krishnan)</i></td>
                 <td rowSpan="3" style={{verticalAlign: "middle"}}>
                 {makeLink("mandatory", 
                   "https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-021-05489-x", 
