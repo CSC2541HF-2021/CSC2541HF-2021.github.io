@@ -441,7 +441,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>11/26/2021 (Friday)</td>
-                <td>Student Project Presentations</td>
+                <td>Guest Lecture: Interpreting Model Predictions <i>(Nikhil Verma)</i></td>
                 <td></td>
               </tr>
               {/* WEEK 13 */}
