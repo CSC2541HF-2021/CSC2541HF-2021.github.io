@@ -15,7 +15,8 @@ export default function Page({ children }) {
     <style jsx>{`
     #outerbox
     {
-       max-width:500px;
+       max-width:80%;
+       min-width:500px;
        display: inline-block;
        margin-left: auto;
        margin-right: auto;

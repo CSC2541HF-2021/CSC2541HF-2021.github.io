@@ -16,7 +16,7 @@ export default function NavigationBar() {
             </Link>
             <Navbar.Toggle id="navbartoggle" aria-controls='responsive-navbar-nav' />
             <Navbar.Collapse id='responsive-navbar-nav'>
-            <Nav className="justify-content-end">
+            <Nav className="justify-content-end" style={{width: "100%"}}>
               <NavItem>
                 <Link href="/">
                   <NavLink href="/" style={{color: "#808080"}}>Home</NavLink>
