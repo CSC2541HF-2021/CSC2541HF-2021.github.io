@@ -389,7 +389,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>11/15/2021 (Monday)</td>
-                <td>Lecture: Causality and Missingness <i>(Rahul Krishnan)</i></td>
+                <td>Lecture: <a href="lectures/csc2541_lecture11-causalinf.pdf" target="_blank">Causality and Missingness</a> <i>(Rahul Krishnan)</i></td>
                 <td rowSpan="3" style={{verticalAlign: "middle"}}>
                 {makeLink("mandatory", 
                   "https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/", 
