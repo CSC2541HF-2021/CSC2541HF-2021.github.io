@@ -166,7 +166,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>09/27/2021 (Monday)</td>
-                <td> <a href="talks/csc2541_guest_lecture1_Severson.pdf" target="_blank">Guest Lecture</a> <i> (Kristen Severson)</i></td>
+                <td>Guest Lecture: <a href="talks/csc2541_guest_lecture1_Severson.pdf" target="_blank">Discovery of Parkinson’s Disease States Using Machine Learning and Longitudinal Data</a> <i> (Kristen Severson)</i></td>
                 <td rowSpan="3" style={{verticalAlign: "middle"}}>
                   {makeLink("mandatory", 
                   "https://arxiv.org/abs/2102.11218", 
@@ -199,7 +199,12 @@ export default function Home() {
               </tr>
               <tr>
                 <td id="deadlineTableRow">10/01/2021 (Friday)</td>
-                <td id="deadlineTableRow">Student Paper Presentations
+                <td id="deadlineTableRow">
+                  Student Paper Presentation: A Targeted Real-Time Early Warning Score (TREWScore) for Septic Shock <i>(Shihao Ma, Shreyansh Banthia)</i>
+                  <br></br>
+                  <br></br>
+                  Student Paper Presentation: <a href="student_presentations/CSC2541_KorbinianKoch_PaperPresentation.pdf" target="_blank">Population-Level Prediction of Type 2 Diabetes From Claims Data and Analysis of Risk Factors</a> <i>(Korbinian Koch)</i>
+                  <br></br>
                   <br></br>
                   <b>Project Proposal Assignment Due</b>
                 </td>
@@ -227,11 +232,16 @@ export default function Home() {
               </tr>
               <tr>
                 <td>10/06/2021 (Wednesday)</td>
-                <td>Student Paper Presentations</td>
+                <td>
+                  Student Paper Presentation: Clustering Longitudinal Clinical Marker Trajectories from Electronic Health Data: Applications to Phenotyping and Endotype Discovery <i>(Cait Harrigan)</i>
+                  <br></br>
+                  <br></br>
+                  Student Paper Presentation: <a href="student_presentations/CSC2541_YangQu_QingyangYu_PaperPresentation.pdf" target="_blank">Disease-Atlas: Navigating Disease Trajectories using Deep Learning</a> <i>(Yang Qu, Qingyang Yu)</i>
+                </td>
               </tr>
               <tr>
                 <td>10/08/2021 (Friday)</td>
-                <td> <a href="talks/csc2541_guest_lecture2_Monica.pdf" target="_blank">Guest Lecture</a> <i> (Monica Agrawal)</i></td>
+                <td>Guest Lecture: <a href="talks/csc2541_guest_lecture2_Monica.pdf" target="_blank">Clinical Natural Language Processing</a> <i>(Monica Agrawal)</i></td>
               </tr>
               {/* WEEK 6 */}
               <tr>
@@ -301,7 +311,12 @@ export default function Home() {
               </tr>
               <tr>
                 <td>10/22/2021 (Friday)</td>
-                <td>Student Paper Presentations</td>
+                <td>
+                  Student Paper Presentation: <a href="student_presentations/CSC2541_BeiqinZeng_ZhongkangGuo_PaperPresentation.pdf" target="_blank">Uncovering the Heterogeneity and Temporal Complexity of Neurodegenerative Diseases with Subtype and Stage Inference</a> <i>(Beiqin Zeng, Zhongkang Guo)</i>
+                  <br></br>
+                  <br></br>
+                  Student Paper Presentation: <a href="student_presentations/CSC2541_WeimingRen_TianshuZhu_PaperPresentation.pdf" target="_blank">Machine Learning for Comprehensive Forecasting of Alzheimer’s Disease Progression</a> <i>(Weiming Ren, Tianshu Zhu)</i>
+                </td>
               </tr>
               {/* WEEK 8 */}
               <tr>
@@ -330,11 +345,21 @@ export default function Home() {
               </tr>
               <tr>
                 <td>10/27/2021 (Wednesday)</td>
-                <td>Student Paper Presentations</td>
+                <td>
+                  Student Paper Presentation: <a href="student_presentations/CSC2541_TongziWu_RuijingZeng_PaperPresentation.pdf" target="_blank">Attention Is All You Need</a> <i>(Ruijing Zeng, Tongzi Wu)</i>
+                  <br></br>
+                  <br></br>
+                  Student Paper Presentation: BioBERT: A Pre-Trained Biomedical Language Representation Model for Biomedical Text Mining <i>(Zitong Li, Zixuan Pan)</i>
+                </td>
               </tr>
               <tr>
                 <td id="deadlineTableRow">10/29/2021 (Friday)</td>
-                <td id="deadlineTableRow">Student Paper Presentations
+                <td id="deadlineTableRow">
+                  Student Paper Presentation: <a href="student_presentations/CSC2541_ShujunYan_DianaKan_PaperPresentation.pdf" target="_blank">Fully Automated Echocardiogram Interpretation in Clinical Practice</a> <i>(Shujun Yan, Dianna Kan)</i>
+                  <br></br>
+                  <br></br>
+                  Student Paper Presentation: <a href="student_presentations/CSC2541_VasudevSharma_FatemeHaghpanah_PaperPresentation.pdf" target="_blank">U-Net: Convolutional Networks for Biomedical Image Segmentation</a> <i>(Fateme Haghpanah, Vasudev Sharma)</i>
+                  <br></br>
                   <br></br>
                   <b>Paper Summary Assignment Due</b>
                 </td>
@@ -370,11 +395,21 @@ export default function Home() {
               </tr>
               <tr>
                 <td>11/03/2021 (Wednesday)</td>
-                <td>Student Paper Presentations</td>
+                <td>
+                  Student Paper Presentation: Datasheets for Datasets <i>(Pritish Mishra)</i>
+                  <br></br>
+                  <br></br>
+                  Student Paper Presentation: <a href="student_presentations/CSC2541_NikhilVerma_DeepkamalGill_PaperPresentation.pdf" target="_blank">Intelligible Models for HealthCare: Predicting Pneumonia Risk and Hospital 30-day Readmission</a> <i>(Nikhil Verma, Deepkamal Gill)</i>
+                </td>
               </tr>
               <tr>
                 <td>11/05/2021 (Friday)</td>
-                <td>Student Paper Presentations</td>
+                <td>
+                  Student Paper Presentation: <a href="student_presentations/CSC2541_SantoshKolagati_OmkarDige_PaperPresentation.pdf" target="_blank">Dissecting Racial Bias in an Algorithm Used to Manage the Health of Populations</a> <i>(Santosh Kolagati, Omkar Dige)</i>
+                  <br></br>
+                  <br></br>
+                  Student Paper Presentation: Why Is My Classifier Discriminatory? <i>(Filip Miscevic, Caroline Malin-Mayor)</i>
+                </td>
               </tr>
               {/* WEEK 10 */}
               <tr>
@@ -418,11 +453,21 @@ export default function Home() {
               </tr>
               <tr>
                 <td>11/17/2021 (Wednesday)</td>
-                <td>Student Paper Presentations</td>
+                <td>
+                  Student Paper Presentation:  <a href="student_presentations/CSC2541_WeiqingWang_CongWei_PaperPresentation.pdf" target="_blank">Optimizing Medical Treatment for Sepsis in Intensive Care</a> <i>(Weiqing Wang, Cong Wei)</i>
+                  <br></br>
+                  <br></br>
+                  Student Paper Presentation: <a href="student_presentations/CSC2541_YuxiaoSun_YuyiDing_PaperPresentation.pdf" target="_blank">The Role of Machine Learning in Clinical Research: Transforming the Future of Evidence Generation</a> <i>(Yuxiao Sun, Yuyi Ding)</i>
+                </td>
               </tr>
               <tr>
                 <td>11/19/2021 (Friday)</td>
-                <td>Student Paper Presentations</td>
+                <td>
+                  Student Paper Presentation: <a href="student_presentations/CSC2541_AsleshaPokhrel_SujayNagaraj_PaperPresentation.pdf" target="_blank">Recurrent Neural Networks for Multivariate Time Series with Missing Values</a> <i>(Aslesha Pokhrel, Sujay Nagaraj)</i>
+                  <br></br>
+                  <br></br>
+                  Student Paper Presentation: Estimating individual treatment effect: Generalization Bounds and Algorithms <i>(Vahid Balazadeh, Tom Ginsberg)</i>
+                </td>
               </tr>
               {/* WEEK 12 */}
               <tr>
@@ -430,13 +475,13 @@ export default function Home() {
               </tr>
               <tr>
                 <td>11/22/2021 (Monday)</td>
-                <td>Student Paper Presentations</td>
+                <td>Lecture: Causal Inference II <i>(Rahul Krishnan)</i></td>
                 <td></td>
                 {/* <td rowSpan="3" style={{verticalAlign: "middle"}}></td> */}
               </tr>
               <tr>
                 <td>11/24/2021 (Wednesday)</td>
-                <td>Student Paper Presentations</td>
+                <td>Lecture: Causal Inference III <i>(Rahul Krishnan)</i></td>
                 <td></td>
               </tr>
               <tr>
