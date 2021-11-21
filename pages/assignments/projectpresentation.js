@@ -68,7 +68,7 @@ export default function Home() {
                 <td>20%</td>
               </tr>
               <tr>
-                <td>Finishes under time (5 minutes).</td>
+                <td>Finishes under time (25 minutes).</td>
                 <td>5%</td>
               </tr>
               <tr>
