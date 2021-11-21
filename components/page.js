@@ -6,12 +6,13 @@ export default function Page({ children }) {
   return (
     <>
     <div id="outerbox">
-    <NavigationBar/>
+      <NavigationBar/>
       <div id="innerbox">
         {children}
       </div>
-    <PageFooter/>
+      <PageFooter/>
     </div>
+
     <style jsx>{`
     #outerbox
     {
