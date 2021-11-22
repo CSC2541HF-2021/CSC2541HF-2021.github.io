@@ -7,6 +7,7 @@ export default function Page({ children }) {
     <>
     <div id="outerbox">
       <NavigationBar/>
+      <br></br>
       <div id="innerbox">
         {children}
       </div>

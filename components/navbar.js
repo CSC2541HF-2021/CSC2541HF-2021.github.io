@@ -9,7 +9,7 @@ export default function NavigationBar() {
     const dark = theme === 'dark' ? true : false;
     return (
       <>
-      <Navbar collapseOnSelect expand='sm'>
+      <Navbar collapseOnSelect expand='sm' id="navbarouter" className="sticky-top" style={{borderBottom: "double"}}>
         <Container>
             <Link href="/">
               <NavbarBrand id="navbarbrand">CSC2541</NavbarBrand>

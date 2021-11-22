@@ -14,7 +14,6 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
         <Page>
-          <br></br>
           <h2>Welcome to CSC2541: Machine Learning for Healthcare! &#128075;&#65039;</h2>
 
           <ConvNetDemo/>

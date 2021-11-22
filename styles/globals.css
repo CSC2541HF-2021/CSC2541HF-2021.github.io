@@ -20,6 +20,10 @@
       @apply dark:text-dove-gray-100
     }
 
+    #navbarouter {
+      @apply bg-white dark:bg-dove-gray-800
+    }
+
     #navbartoggle {
       @apply dark:bg-dove-gray-100
     }
