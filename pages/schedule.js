@@ -46,7 +46,7 @@ export default function Home() {
       </Head>
         <Page>
           <h2>Schedule</h2>
-          <p>The first several weeks of the course schedule is as follows. In the below schedule, blue PDF icons ({<FontAwesomeIcon icon={faFilePdf} size="1x" id="mandatoryNoHover"/>}) represent required readings for the week, whereas yellow icons ({<FontAwesomeIcon icon={faFilePdf} size="1x" id="optionalNoHover"/>}) represent optional readings. Highlighted cells indicate that a course deliverable is due on that date.</p>
+          <p>In the below schedule, blue PDF icons ({<FontAwesomeIcon icon={faFilePdf} size="1x" id="mandatoryNoHover"/>}) represent required readings for the week, whereas yellow icons ({<FontAwesomeIcon icon={faFilePdf} size="1x" id="optionalNoHover"/>}) represent optional readings. Highlighted cells indicate that a course deliverable is due on that date.</p>
           <p>Lecture slides can be found linked below; lecture recordings can be found on Quercus.</p>
           <Table id="tabular">
           <thead>
