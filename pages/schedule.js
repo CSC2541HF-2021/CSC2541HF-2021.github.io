@@ -481,7 +481,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>11/24/2021 (Wednesday)</td>
-                <td>Lecture: Causal Inference III <i>(Rahul Krishnan)</i></td>
+                <td>Lecture: Case Studies in Machine Learning for Healthcare <i>(Rahul Krishnan)</i></td>
                 <td></td>
               </tr>
               <tr>
