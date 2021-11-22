@@ -466,7 +466,7 @@ export default function Home() {
                   Student Paper Presentation: <a href="student_presentations/CSC2541_AsleshaPokhrel_SujayNagaraj_PaperPresentation.pdf" target="_blank">Recurrent Neural Networks for Multivariate Time Series with Missing Values</a> <i>(Aslesha Pokhrel, Sujay Nagaraj)</i>
                   <br></br>
                   <br></br>
-                  Student Paper Presentation: Estimating individual treatment effect: Generalization Bounds and Algorithms <i>(Vahid Balazadeh, Tom Ginsberg)</i>
+                  Student Paper Presentation: Estimating Individual Treatment Effect: Generalization Bounds and Algorithms <i>(Vahid Balazadeh, Tom Ginsberg)</i>
                 </td>
               </tr>
               {/* WEEK 12 */}
@@ -520,7 +520,7 @@ export default function Home() {
                 <td></td>
               </tr>
               <tr>
-                <td id="deadlineTableRow">12/01/2021 (Wednesday)</td>
+                <td id="deadlineTableRow">12/08/2021 (Wednesday)</td>
                 <td id="deadlineTableRow">Student Project Presentations; Course Wrap-Up
                   <br></br>
                   <b>Project Final Report Due</b>
@@ -529,24 +529,6 @@ export default function Home() {
               </tr>
             </tbody>
           </Table>
-
-{/* 
-Week 12: 
-M N22 :  2 presenters 
-W N24 -  2 presenters
-F  N26 - Group -1/0
-
-
-Week 13: Group presentations begin
-M N29 - Group 1/2
-W D1  - Group 3/4
-F  D3  - Group 5/6
-
-Week 14: Project report due
-M D6   - Group 7/8
-W D8  - Group 9 & course recap - Deadline for project report
- */}
-
         </Page>
     </div>
   )
