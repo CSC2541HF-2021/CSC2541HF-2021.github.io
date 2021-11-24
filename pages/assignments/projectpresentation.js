@@ -14,7 +14,7 @@ export default function Home() {
           <h2>Project Presentation</h2>
           <h5>Due: Varies based on presentation slot.</h5>
 
-          <p>The final project presentation is your chance to showcase the hard work that you’ve done in your course projects this quarter. These presentations are to be completed in the same manner as the partnered paper presentations, except that these will be done in your project groups of up to four students (while your paper presentations were done in groups of two), and that these presentations will be 5 minutes long (while you had 25 minutes for your paper presentations). It is not expected that all group members have a speaking role in the presentation, but it is expected that all team members contribute to the presentation component of the project. An additional difference between the project presentations and the paper presentations is that the project presentations do not include the same requirement for a background/tutorial segment, as time constraints may make that particularly challenging.</p>
+          <p>The final project presentation is your chance to showcase the hard work that you’ve done in your course projects this quarter. These presentations are to be completed in the same manner as the partnered paper presentations, except that these will be done in your project groups of up to four students (while your paper presentations were done in groups of two). It is not expected that all group members have a speaking role in the presentation, but it is expected that all team members contribute to the presentation component of the project.</p>
 
           <p>The same pointers and guidelines apply to the project presentation as applied to the paper presentations:</p>
           <ul>
@@ -26,7 +26,7 @@ export default function Home() {
           </ul>
           <p>If you don’t yet have results to show on your project because you're presenting early, simply explain what you’re planning to do and your anticipated results.</p>
 
-          <p>One additional requirement for the presentation and your paper is the creation of a novel visual to clearly and succinctly showcase your approach to the problem: this must be a novel visual that you have created for the purpose of your paper and presentation and not something you pulled from a related paper. The only exception to this requirement would be for theory papers, in which case a singular lemma or proof may stand in for a novel visual.</p>
+          <p>As in the paper presentation, you should also create a novel visual to clearly and succinctly showcase your approach to the problem: this must be a novel visual that you have created for the purpose of your paper and presentation and not something you pulled from a related paper. The only exception to this requirement would be for theory papers, in which case a singular lemma or proof may stand in for a novel visual.</p>
 
           <p>As with the paper presentation, we've included a requirement wherein you present a rehearsal walkthrough of your presentation to a TA in the week preceding your presentation date. More information on signing up for these sessions will be released as a course announcement closer to the project presentation dates.</p>
 

@@ -65,6 +65,9 @@ export default function Home() {
         <h5>Conclusions (4 points)</h5>
         <p>Conclude by situating the results achieved in the context of the problem domain described in the Introduction, and repeating the main takeaways from your paper. The conclusion should be clear and concise.</p>
 
+        <h5>Team Contributions</h5>
+        <p>Please also include a segment of your report (not counted toward the page limit) discussing the contributions of each team member toward the final project.</p>
+
         <h5>Appendices</h5>
         <p>You are welcome to use the appendices to include additional proofs, extra details, and experiments; however, please do not use the appendices to include crucial information missing from the main text to circumvent the page limit (a good rule of thumb here is - “if the reader does not look at the appendix, will they still be able to draw the intended value and insights from this work?”), or to overwhelm the reader with irrelevant details (for example, please do not wholesale copy/paste your codebase into an appendix - although, if there are unique, nifty features of your implementation that you would like to highlight, these segments are welcomed in your appendices). If you are taking a more theoretical approach to your project, appendices are an excellent place to situate long mathematical derivations that would otherwise interrupt the flow of the paper. Similarly, if you are working with generative models, this is also a good place to situate additional generated examples which may be numerous for your paper’s main body.</p>
 
