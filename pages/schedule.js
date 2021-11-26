@@ -475,18 +475,18 @@ export default function Home() {
               </tr>
               <tr>
                 <td>11/22/2021 (Monday)</td>
-                <td>Lecture: Causal Inference II <i>(Rahul Krishnan)</i></td>
+                <td>Lecture: <a href="lectures/csc2541_lecture12-causalinf2.pdf" target="_blank">Causality and Missingness II</a> <i>(Rahul Krishnan)</i></td>
                 <td></td>
                 {/* <td rowSpan="3" style={{verticalAlign: "middle"}}></td> */}
               </tr>
               <tr>
                 <td>11/24/2021 (Wednesday)</td>
-                <td>Lecture: Case Studies in Machine Learning for Healthcare <i>(Rahul Krishnan)</i></td>
+                <td>Lecture: <a href="lectures/csc2541_lecture13-casestudies.pdf" target="_blank">Case Studies in Machine Learning for Healthcare</a> <i>(Rahul Krishnan)</i></td>
                 <td></td>
               </tr>
               <tr>
                 <td>11/26/2021 (Friday)</td>
-                <td>Guest Lecture: Interpreting Model Predictions <i>(Nikhil Verma)</i></td>
+                <td>Guest Lecture: <a href="talks/csc2541_guest_lecture6_Nikhil.pdf" target="_blank">Interpreting Model Predictions</a> <i>(Nikhil Verma)</i></td>
                 <td></td>
               </tr>
               {/* WEEK 13 */}
