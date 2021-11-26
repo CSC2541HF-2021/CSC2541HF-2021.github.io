@@ -233,7 +233,7 @@ export default function Home() {
               <tr>
                 <td>10/06/2021 (Wednesday)</td>
                 <td>
-                  Student Paper Presentation: Clustering Longitudinal Clinical Marker Trajectories from Electronic Health Data: Applications to Phenotyping and Endotype Discovery <i>(Cait Harrigan)</i>
+                  Student Paper Presentation: <a href="student_presentations/CSC2541_CaitHarrigan_PaperPresentation.pdf" target="_blank">Clustering Longitudinal Clinical Marker Trajectories from Electronic Health Data: Applications to Phenotyping and Endotype Discovery</a> <i>(Cait Harrigan)</i>
                   <br></br>
                   <br></br>
                   Student Paper Presentation: <a href="student_presentations/CSC2541_YangQu_QingyangYu_PaperPresentation.pdf" target="_blank">Disease-Atlas: Navigating Disease Trajectories using Deep Learning</a> <i>(Yang Qu, Qingyang Yu)</i>
@@ -349,7 +349,7 @@ export default function Home() {
                   Student Paper Presentation: <a href="student_presentations/CSC2541_TongziWu_RuijingZeng_PaperPresentation.pdf" target="_blank">Attention Is All You Need</a> <i>(Ruijing Zeng, Tongzi Wu)</i>
                   <br></br>
                   <br></br>
-                  Student Paper Presentation: BioBERT: A Pre-Trained Biomedical Language Representation Model for Biomedical Text Mining <i>(Zitong Li, Zixuan Pan)</i>
+                  Student Paper Presentation: <a href="student_presentations/CSC2541_ZixuanPan_ZitongLi_PaperPresentation.pdf" target="_blank">BioBERT: A Pre-Trained Biomedical Language Representation Model for Biomedical Text Mining</a> <i>(Zixuan Pan, Zitong Li)</i>
                 </td>
               </tr>
               <tr>
@@ -408,7 +408,7 @@ export default function Home() {
                   Student Paper Presentation: <a href="student_presentations/CSC2541_SantoshKolagati_OmkarDige_PaperPresentation.pdf" target="_blank">Dissecting Racial Bias in an Algorithm Used to Manage the Health of Populations</a> <i>(Santosh Kolagati, Omkar Dige)</i>
                   <br></br>
                   <br></br>
-                  Student Paper Presentation: Why Is My Classifier Discriminatory? <i>(Filip Miscevic, Caroline Malin-Mayor)</i>
+                  Student Paper Presentation: <a href="student_presentations/CSC2541_CarolineMalinMayor_FilipMiscevic_PaperPresentation.pdf" target="_blank">Why Is My Classifier Discriminatory?</a> <i>(Filip Miscevic, Caroline Malin-Mayor)</i>
                 </td>
               </tr>
               {/* WEEK 10 */}
