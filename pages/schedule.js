@@ -466,7 +466,7 @@ export default function Home() {
                   Student Paper Presentation: <a href="student_presentations/CSC2541_AsleshaPokhrel_SujayNagaraj_PaperPresentation.pdf" target="_blank">Recurrent Neural Networks for Multivariate Time Series with Missing Values</a> <i>(Aslesha Pokhrel, Sujay Nagaraj)</i>
                   <br></br>
                   <br></br>
-                  Student Paper Presentation: Estimating Individual Treatment Effect: Generalization Bounds and Algorithms <i>(Vahid Balazadeh, Tom Ginsberg)</i>
+                  Student Paper Presentation: <a href="student_presentations/CSC2541_VahidBalazadeh_TomGinsberg_PaperPresentation.pdf" target="_blank">Estimating Individual Treatment Effect: Generalization Bounds and Algorithms</a> <i>(Vahid Balazadeh, Tom Ginsberg)</i>
                 </td>
               </tr>
               {/* WEEK 12 */}
