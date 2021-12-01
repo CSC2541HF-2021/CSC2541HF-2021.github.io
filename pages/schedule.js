@@ -203,7 +203,7 @@ export default function Home() {
                   Student Paper Presentation: A Targeted Real-Time Early Warning Score (TREWScore) for Septic Shock <i>(Shihao Ma, Shreyansh Banthia)</i>
                   <br></br>
                   <br></br>
-                  Student Paper Presentation: <a href="student_presentations/CSC2541_KorbinianKoch_PaperPresentation.pdf" target="_blank">Population-Level Prediction of Type 2 Diabetes From Claims Data and Analysis of Risk Factors</a> <i>(Korbinian Koch)</i>
+                  Student Paper Presentation: <a href="paper_presentations/CSC2541_KorbinianKoch_PaperPresentation.pdf" target="_blank">Population-Level Prediction of Type 2 Diabetes From Claims Data and Analysis of Risk Factors</a> <i>(Korbinian Koch)</i>
                   <br></br>
                   <br></br>
                   <b>Project Proposal Assignment Due</b>
@@ -233,10 +233,10 @@ export default function Home() {
               <tr>
                 <td>10/06/2021 (Wednesday)</td>
                 <td>
-                  Student Paper Presentation: <a href="student_presentations/CSC2541_CaitHarrigan_PaperPresentation.pdf" target="_blank">Clustering Longitudinal Clinical Marker Trajectories from Electronic Health Data: Applications to Phenotyping and Endotype Discovery</a> <i>(Cait Harrigan)</i>
+                  Student Paper Presentation: <a href="paper_presentations/CSC2541_CaitHarrigan_PaperPresentation.pdf" target="_blank">Clustering Longitudinal Clinical Marker Trajectories from Electronic Health Data: Applications to Phenotyping and Endotype Discovery</a> <i>(Cait Harrigan)</i>
                   <br></br>
                   <br></br>
-                  Student Paper Presentation: <a href="student_presentations/CSC2541_YangQu_QingyangYu_PaperPresentation.pdf" target="_blank">Disease-Atlas: Navigating Disease Trajectories using Deep Learning</a> <i>(Yang Qu, Qingyang Yu)</i>
+                  Student Paper Presentation: <a href="paper_presentations/CSC2541_YangQu_QingyangYu_PaperPresentation.pdf" target="_blank">Disease-Atlas: Navigating Disease Trajectories using Deep Learning</a> <i>(Yang Qu, Qingyang Yu)</i>
                 </td>
               </tr>
               <tr>
@@ -312,10 +312,10 @@ export default function Home() {
               <tr>
                 <td>10/22/2021 (Friday)</td>
                 <td>
-                  Student Paper Presentation: <a href="student_presentations/CSC2541_BeiqinZeng_ZhongkangGuo_PaperPresentation.pdf" target="_blank">Uncovering the Heterogeneity and Temporal Complexity of Neurodegenerative Diseases with Subtype and Stage Inference</a> <i>(Beiqin Zeng, Zhongkang Guo)</i>
+                  Student Paper Presentation: <a href="paper_presentations/CSC2541_BeiqinZeng_ZhongkangGuo_PaperPresentation.pdf" target="_blank">Uncovering the Heterogeneity and Temporal Complexity of Neurodegenerative Diseases with Subtype and Stage Inference</a> <i>(Beiqin Zeng, Zhongkang Guo)</i>
                   <br></br>
                   <br></br>
-                  Student Paper Presentation: <a href="student_presentations/CSC2541_WeimingRen_TianshuZhu_PaperPresentation.pdf" target="_blank">Machine Learning for Comprehensive Forecasting of Alzheimer’s Disease Progression</a> <i>(Weiming Ren, Tianshu Zhu)</i>
+                  Student Paper Presentation: <a href="paper_presentations/CSC2541_WeimingRen_TianshuZhu_PaperPresentation.pdf" target="_blank">Machine Learning for Comprehensive Forecasting of Alzheimer’s Disease Progression</a> <i>(Weiming Ren, Tianshu Zhu)</i>
                 </td>
               </tr>
               {/* WEEK 8 */}
@@ -346,19 +346,19 @@ export default function Home() {
               <tr>
                 <td>10/27/2021 (Wednesday)</td>
                 <td>
-                  Student Paper Presentation: <a href="student_presentations/CSC2541_TongziWu_RuijingZeng_PaperPresentation.pdf" target="_blank">Attention Is All You Need</a> <i>(Ruijing Zeng, Tongzi Wu)</i>
+                  Student Paper Presentation: <a href="paper_presentations/CSC2541_TongziWu_RuijingZeng_PaperPresentation.pdf" target="_blank">Attention Is All You Need</a> <i>(Ruijing Zeng, Tongzi Wu)</i>
                   <br></br>
                   <br></br>
-                  Student Paper Presentation: <a href="student_presentations/CSC2541_ZixuanPan_ZitongLi_PaperPresentation.pdf" target="_blank">BioBERT: A Pre-Trained Biomedical Language Representation Model for Biomedical Text Mining</a> <i>(Zixuan Pan, Zitong Li)</i>
+                  Student Paper Presentation: <a href="paper_presentations/CSC2541_ZixuanPan_ZitongLi_PaperPresentation.pdf" target="_blank">BioBERT: A Pre-Trained Biomedical Language Representation Model for Biomedical Text Mining</a> <i>(Zixuan Pan, Zitong Li)</i>
                 </td>
               </tr>
               <tr>
                 <td id="deadlineTableRow">10/29/2021 (Friday)</td>
                 <td id="deadlineTableRow">
-                  Student Paper Presentation: <a href="student_presentations/CSC2541_ShujunYan_DianaKan_PaperPresentation.pdf" target="_blank">Fully Automated Echocardiogram Interpretation in Clinical Practice</a> <i>(Shujun Yan, Dianna Kan)</i>
+                  Student Paper Presentation: <a href="paper_presentations/CSC2541_ShujunYan_DianaKan_PaperPresentation.pdf" target="_blank">Fully Automated Echocardiogram Interpretation in Clinical Practice</a> <i>(Shujun Yan, Dianna Kan)</i>
                   <br></br>
                   <br></br>
-                  Student Paper Presentation: <a href="student_presentations/CSC2541_VasudevSharma_FatemeHaghpanah_PaperPresentation.pdf" target="_blank">U-Net: Convolutional Networks for Biomedical Image Segmentation</a> <i>(Fateme Haghpanah, Vasudev Sharma)</i>
+                  Student Paper Presentation: <a href="paper_presentations/CSC2541_VasudevSharma_FatemeHaghpanah_PaperPresentation.pdf" target="_blank">U-Net: Convolutional Networks for Biomedical Image Segmentation</a> <i>(Fateme Haghpanah, Vasudev Sharma)</i>
                   <br></br>
                   <br></br>
                   <b>Paper Summary Assignment Due</b>
@@ -396,19 +396,19 @@ export default function Home() {
               <tr>
                 <td>11/03/2021 (Wednesday)</td>
                 <td>
-                  Student Paper Presentation: Datasheets for Datasets <i>(Pritish Mishra)</i>
+                  Student Paper Presentation: <a href="paper_presentations/CSC2541_PritishMishra_PaperPresentation.pdf" target="_blank">Datasheets for Datasets</a> <i>(Pritish Mishra)</i>
                   <br></br>
                   <br></br>
-                  Student Paper Presentation: <a href="student_presentations/CSC2541_NikhilVerma_DeepkamalGill_PaperPresentation.pdf" target="_blank">Intelligible Models for HealthCare: Predicting Pneumonia Risk and Hospital 30-day Readmission</a> <i>(Nikhil Verma, Deepkamal Gill)</i>
+                  Student Paper Presentation: <a href="paper_presentations/CSC2541_NikhilVerma_DeepkamalGill_PaperPresentation.pdf" target="_blank">Intelligible Models for HealthCare: Predicting Pneumonia Risk and Hospital 30-day Readmission</a> <i>(Nikhil Verma, Deepkamal Gill)</i>
                 </td>
               </tr>
               <tr>
                 <td>11/05/2021 (Friday)</td>
                 <td>
-                  Student Paper Presentation: <a href="student_presentations/CSC2541_SantoshKolagati_OmkarDige_PaperPresentation.pdf" target="_blank">Dissecting Racial Bias in an Algorithm Used to Manage the Health of Populations</a> <i>(Santosh Kolagati, Omkar Dige)</i>
+                  Student Paper Presentation: <a href="paper_presentations/CSC2541_SantoshKolagati_OmkarDige_PaperPresentation.pdf" target="_blank">Dissecting Racial Bias in an Algorithm Used to Manage the Health of Populations</a> <i>(Santosh Kolagati, Omkar Dige)</i>
                   <br></br>
                   <br></br>
-                  Student Paper Presentation: <a href="student_presentations/CSC2541_CarolineMalinMayor_FilipMiscevic_PaperPresentation.pdf" target="_blank">Why Is My Classifier Discriminatory?</a> <i>(Filip Miscevic, Caroline Malin-Mayor)</i>
+                  Student Paper Presentation: <a href="paper_presentations/CSC2541_CarolineMalinMayor_FilipMiscevic_PaperPresentation.pdf" target="_blank">Why Is My Classifier Discriminatory?</a> <i>(Filip Miscevic, Caroline Malin-Mayor)</i>
                 </td>
               </tr>
               {/* WEEK 10 */}
@@ -454,19 +454,19 @@ export default function Home() {
               <tr>
                 <td>11/17/2021 (Wednesday)</td>
                 <td>
-                  Student Paper Presentation:  <a href="student_presentations/CSC2541_WeiqingWang_CongWei_PaperPresentation.pdf" target="_blank">Optimizing Medical Treatment for Sepsis in Intensive Care</a> <i>(Weiqing Wang, Cong Wei)</i>
+                  Student Paper Presentation:  <a href="paper_presentations/CSC2541_WeiqingWang_CongWei_PaperPresentation.pdf" target="_blank">Optimizing Medical Treatment for Sepsis in Intensive Care</a> <i>(Weiqing Wang, Cong Wei)</i>
                   <br></br>
                   <br></br>
-                  Student Paper Presentation: <a href="student_presentations/CSC2541_YuxiaoSun_YuyiDing_PaperPresentation.pdf" target="_blank">The Role of Machine Learning in Clinical Research: Transforming the Future of Evidence Generation</a> <i>(Yuxiao Sun, Yuyi Ding)</i>
+                  Student Paper Presentation: <a href="paper_presentations/CSC2541_YuxiaoSun_YuyiDing_PaperPresentation.pdf" target="_blank">The Role of Machine Learning in Clinical Research: Transforming the Future of Evidence Generation</a> <i>(Yuxiao Sun, Yuyi Ding)</i>
                 </td>
               </tr>
               <tr>
                 <td>11/19/2021 (Friday)</td>
                 <td>
-                  Student Paper Presentation: <a href="student_presentations/CSC2541_AsleshaPokhrel_SujayNagaraj_PaperPresentation.pdf" target="_blank">Recurrent Neural Networks for Multivariate Time Series with Missing Values</a> <i>(Aslesha Pokhrel, Sujay Nagaraj)</i>
+                  Student Paper Presentation: <a href="paper_presentations/CSC2541_AsleshaPokhrel_SujayNagaraj_PaperPresentation.pdf" target="_blank">Recurrent Neural Networks for Multivariate Time Series with Missing Values</a> <i>(Aslesha Pokhrel, Sujay Nagaraj)</i>
                   <br></br>
                   <br></br>
-                  Student Paper Presentation: <a href="student_presentations/CSC2541_VahidBalazadeh_TomGinsberg_PaperPresentation.pdf" target="_blank">Estimating Individual Treatment Effect: Generalization Bounds and Algorithms</a> <i>(Vahid Balazadeh, Tom Ginsberg)</i>
+                  Student Paper Presentation: <a href="paper_presentations/CSC2541_VahidBalazadeh_TomGinsberg_PaperPresentation.pdf" target="_blank">Estimating Individual Treatment Effect: Generalization Bounds and Algorithms</a> <i>(Vahid Balazadeh, Tom Ginsberg)</i>
                 </td>
               </tr>
               {/* WEEK 12 */}
