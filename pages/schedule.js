@@ -495,7 +495,7 @@ export default function Home() {
               </tr>
               <tr>
                 <td>11/29/2021 (Monday)</td>
-                <td>Student Project Presentations</td>
+                <td>Student Project Presentation: <a href="project_presentations/CSC2541_PritishMishra_ProjectPresentation.pdf" target="_blank">Fledge: Edge-based Federated Learning Framework for Mobile Healthcare</a> (Pritish Mishra)</td>
                 {/* <td rowSpan="3" style={{verticalAlign: "middle"}}></td> */}
                 <td></td>
               </tr>
