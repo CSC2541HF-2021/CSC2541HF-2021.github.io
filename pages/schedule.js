@@ -454,7 +454,7 @@ export default function Home() {
               <tr>
                 <td>11/17/2021 (Wednesday)</td>
                 <td>
-                  Student Paper Presentation:  <a href="paper_presentations/CSC2541_WeiqingWang_CongWei_PaperPresentation.pdf" target="_blank">Optimizing Medical Treatment for Sepsis in Intensive Care</a> <i>(Weiqing Wang, Cong Wei)</i>
+                  Student Paper Presentation:  <a href="https://utoronto-my.sharepoint.com/:p:/g/personal/michael_cooper_mail_utoronto_ca/Eb0WvyywGvpCnqH_hHC97yEB_7jOswD_npvJXb1kyhI5pA?e=3v1MHZ" target="_blank">Optimizing Medical Treatment for Sepsis in Intensive Care</a> <i>(Weiqing Wang, Cong Wei)</i>
                   <br></br>
                   <br></br>
                   Student Paper Presentation: <a href="paper_presentations/CSC2541_YuxiaoSun_YuyiDing_PaperPresentation.pdf" target="_blank">The Role of Machine Learning in Clinical Research: Transforming the Future of Evidence Generation</a> <i>(Yuxiao Sun, Yuyi Ding)</i>
@@ -495,8 +495,12 @@ export default function Home() {
               </tr>
               <tr>
                 <td>11/29/2021 (Monday)</td>
-                <td>Student Project Presentation: <a href="project_presentations/CSC2541_PritishMishra_ProjectPresentation.pdf" target="_blank">Fledge: Edge-based Federated Learning Framework for Mobile Healthcare</a> (Pritish Mishra)</td>
-                {/* <td rowSpan="3" style={{verticalAlign: "middle"}}></td> */}
+                <td>
+                  Student Project Presentation: <a href="project_presentations/CSC2541_PritishMishra_ProjectPresentation.pdf" target="_blank">Fledge: Edge-based Federated Learning Framework for Mobile Healthcare</a> (Pritish Mishra)
+                  <br></br>
+                  <br></br>
+                  Student Project Presentation: <a href="https://utoronto-my.sharepoint.com/:p:/g/personal/michael_cooper_mail_utoronto_ca/EYouIHhYzMFIhD6LKSCePQwB-_UtgnLQ2Y0b0SCUCr8sBg?e=uYwJJe" target="_blank">TabSurv: An Interpretable Deep Learning Survival Analysis for Tabular Data​</a> (Shihao Ma, Weiqing Wang, Cong Wei)
+                </td>
                 <td></td>
               </tr>
               <tr>
