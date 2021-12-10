@@ -505,12 +505,22 @@ export default function Home() {
               </tr>
               <tr>
                 <td>12/01/2021 (Wednesday)</td>
-                <td>Student Project Presentations</td>
+                <td>
+                  Student Project Presentation: Time Series Analysis of Biomarkers For Multiple Myeloma (Dianna Kan, Yang Qu, Qingyang Yu, Shujun Yan)
+                  <br></br>
+                  <br></br>
+                  Student Project Presentation: A Multimodal Approach to Autism Spectrum Disorder Subtyping (Yuyi Ding, Yuxiao Sun, Shreyansh Banthia, Santosh Kolagati)
+                </td>
                 <td></td>
               </tr>
               <tr>
                 <td>12/03/2021 (Friday)</td>
-                <td>Student Project Presentations</td>
+                <td>
+                  Student Project Presentation: TAGS: Time-Adaptive Global State Modeling of Hierarchically Clustered Time Series Data (Aslesha Pokhrel, Sujay Nagaraj, Cait Harrigan)
+                  <br></br>
+                  <br></br>
+                  Student Project Presentation: Transfer Learning for ECG Classification Using PTB-XL (Nikhil Verma, Omkar Dige, Deepkamal Gill)
+                </td>
                 <td></td>
               </tr>
             {/* WEEK 13 */}
@@ -519,13 +529,25 @@ export default function Home() {
               </tr>
               <tr>
                 <td>12/06/2021 (Monday)</td>
-                <td>Student Project Presentations</td>
-                {/* <td rowSpan="3" style={{verticalAlign: "middle"}}></td> */}
+                <td>
+                  Student Project Presentation: Assessing COVID-19 Status from Crowdsourced Cough Recordings (Zitong Li, Caroline Malin-Mayor, Filip Miscevic, Zixuan Pan)
+                  <br></br>
+                  <br></br>
+                  Student Project Presentation: Exploration of how MRI Acquisition Parameter Leads to Acquisition Shift (Fateme Haghpanah, Beiqin Zeng, Zhongkang Guo)
+                </td>
+                <td></td>
                 <td></td>
               </tr>
               <tr>
                 <td id="deadlineTableRow">12/08/2021 (Wednesday)</td>
-                <td id="deadlineTableRow">Student Project Presentations; Course Wrap-Up
+                <td id="deadlineTableRow">
+                <td>
+                  Student Project Presentation: DisCeRn: Disease-Contrastive Representations from Multi-Modal Medical Data (Vahid Balazadeh, Tom Ginsberg, Korbinian Koch, Vasudev Sharma)
+                  <br></br>
+                  <br></br>
+                  Student Project Presentation: Towards Transformer-Based Automated ICD Coding: Challenges, Pitfalls and Solutions (Ruijing Zeng, Tongzi Wu, Weiming Ren, Tianshu Zhu)
+                </td>
+                <td></td>
                   <br></br>
                   <b>Project Final Report Due</b>
                 </td>
