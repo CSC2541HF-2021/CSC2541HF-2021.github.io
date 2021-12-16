@@ -516,7 +516,7 @@ export default function Home() {
               <tr>
                 <td>12/03/2021 (Friday)</td>
                 <td>
-                  Student Project Presentation: TAGS: Time-Adaptive Global State Modeling of Hierarchically Clustered Time Series Data (Aslesha Pokhrel, Sujay Nagaraj, Cait Harrigan)
+                  Student Project Presentation: <a href="project_presentations/CSC2541_AsleshaPokhrel_SujayNagaraj_CaitHarrigan_ProjectPresentation.pdf" target="_blank">TAGS: Time-Adaptive Global State Modeling of Hierarchically Clustered Time Series Data</a> (Aslesha Pokhrel, Sujay Nagaraj, Cait Harrigan)
                   <br></br>
                   <br></br>
                   Student Project Presentation: <a href="project_presentations/CSC2541_NikhilVerma_OmkarDige_DeepkamalGill_ProjectPresentation.pdf" target="_blank">Transfer Learning for ECG Classification Using PTB-XL</a> (Nikhil Verma, Omkar Dige, Deepkamal Gill)
@@ -530,10 +530,10 @@ export default function Home() {
               <tr>
                 <td>12/06/2021 (Monday)</td>
                 <td>
-                  Student Project Presentation: Assessing COVID-19 Status from Crowdsourced Cough Recordings (Zitong Li, Caroline Malin-Mayor, Filip Miscevic, Zixuan Pan)
+                  Student Project Presentation: <a href="project_presentations/CSC2541_ZitongLi_CarolineMalin-Mayor_FilipMiscevic_ZixuanPan_ProjectPresentation.pdf" target="_blank">Assessing COVID-19 Status from Crowdsourced Cough Recordings</a> (Zitong Li, Caroline Malin-Mayor, Filip Miscevic, Zixuan Pan)
                   <br></br>
                   <br></br>
-                  Student Project Presentation: Exploration of how MRI Acquisition Parameter Leads to Acquisition Shift (Fateme Haghpanah, Beiqin Zeng, Zhongkang Guo)
+                  Student Project Presentation: <a href="project_presentations/CSC2541_FatemeHaghpanah_BeiqinZeng_ZhongkangGuo_ProjectPresentation.pdf" target="_blank">Exploration of how MRI Acquisition Parameter Leads to Acquisition Shift</a> (Fateme Haghpanah, Beiqin Zeng, Zhongkang Guo)
                 </td>
                 <td></td>
                 <td></td>
