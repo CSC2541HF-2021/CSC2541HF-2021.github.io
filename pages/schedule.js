@@ -506,10 +506,10 @@ export default function Home() {
               <tr>
                 <td>12/01/2021 (Wednesday)</td>
                 <td>
-                  Student Project Presentation: Time Series Analysis of Biomarkers For Multiple Myeloma (Dianna Kan, Yang Qu, Qingyang Yu, Shujun Yan)
+                  Student Project Presentation: <a href="project_presentations/CSC2541_DiannaKan_YangQu_QingyangYu_ShujunYan_ProjectPresentation.pdf" target="_blank">Time Series Analysis of Biomarkers For Multiple Myeloma</a> (Dianna Kan, Yang Qu, Qingyang Yu, Shujun Yan)
                   <br></br>
                   <br></br>
-                  Student Project Presentation: A Multimodal Approach to Autism Spectrum Disorder Subtyping (Yuyi Ding, Yuxiao Sun, Shreyansh Banthia, Santosh Kolagati)
+                  Student Project Presentation: <a href="project_presentations/CSC2541_YuyiDing_YuxiaoSun_ShreyanshBanthia_SantoshKolagati_ProjectPresentation.pdf" target="_blank">A Multimodal Approach to Autism Spectrum Disorder Subtyping</a> (Yuyi Ding, Yuxiao Sun, Shreyansh Banthia, Santosh Kolagati)
                 </td>
                 <td></td>
               </tr>
@@ -519,7 +519,7 @@ export default function Home() {
                   Student Project Presentation: TAGS: Time-Adaptive Global State Modeling of Hierarchically Clustered Time Series Data (Aslesha Pokhrel, Sujay Nagaraj, Cait Harrigan)
                   <br></br>
                   <br></br>
-                  Student Project Presentation: Transfer Learning for ECG Classification Using PTB-XL (Nikhil Verma, Omkar Dige, Deepkamal Gill)
+                  Student Project Presentation: <a href="project_presentations/CSC2541_NikhilVerma_OmkarDige_DeepkamalGill_ProjectPresentation.pdf" target="_blank">Transfer Learning for ECG Classification Using PTB-XL</a> (Nikhil Verma, Omkar Dige, Deepkamal Gill)
                 </td>
                 <td></td>
               </tr>
@@ -542,10 +542,10 @@ export default function Home() {
                 <td id="deadlineTableRow">12/08/2021 (Wednesday)</td>
                 <td id="deadlineTableRow">
                 <td>
-                  Student Project Presentation: DisCeRn: Disease-Contrastive Representations from Multi-Modal Medical Data (Vahid Balazadeh, Tom Ginsberg, Korbinian Koch, Vasudev Sharma)
+                  Student Project Presentation: <a href="project_presentations/CSC2541_VahidBalazadeh_TomGinsberg_KorbinianKoch_VasudevSharma_ProjectPresentation.pdf" target="_blank">DisCeRn: Disease-Contrastive Representations from Multi-Modal Medical Data</a> (Vahid Balazadeh, Tom Ginsberg, Korbinian Koch, Vasudev Sharma)
                   <br></br>
                   <br></br>
-                  Student Project Presentation: Towards Transformer-Based Automated ICD Coding: Challenges, Pitfalls and Solutions (Ruijing Zeng, Tongzi Wu, Weiming Ren, Tianshu Zhu)
+                  Student Project Presentation: <a href="project_presentations/CSC2541_RuijingZeng_TongziWu_WeimingRen_TianshuZhu_ProjectPresentation.pdf" target="_blank">Towards Transformer-Based Automated ICD Coding: Challenges, Pitfalls and Solutions</a> (Ruijing Zeng, Tongzi Wu, Weiming Ren, Tianshu Zhu)
                 </td>
                 <td></td>
                   <br></br>
